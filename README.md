@@ -1,1 +1,1 @@
-# MorfiYa [![Build Status][travis_b]][travis_url] [![AppVeyor status][appveyor_b]][appveyor_url] [![Coverage Status][coveralls_b]][coveralls_url]
+# MorfiYa [![Build Status](https://travis-ci.org/desapp-unq-grupo-E-2017s2/MorfiYa-GrupoE.svg?branch=master)](https://travis-ci.org/desapp-unq-grupo-E-2017s2/MorfiYa-GrupoE) [![Coverage Status][coveralls_b]][coveralls_url]
