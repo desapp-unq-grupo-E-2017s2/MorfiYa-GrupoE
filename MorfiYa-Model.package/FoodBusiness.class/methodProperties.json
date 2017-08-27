@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"description" : "Anonymous 8/21/2017 22:07",
+		"email" : "Anonymous 8/21/2017 22:07",
+		"mapLocation" : "Anonymous 8/21/2017 22:07",
+		"location" : "Anonymous 8/21/2017 22:06",
+		"initializeNamed:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "Anonymous 8/21/2017 22:08",
+		"businessName" : "Anonymous 8/21/2017 22:06",
+		"address" : "Anonymous 8/21/2017 22:06",
+		"webSite" : "Anonymous 8/21/2017 22:07",
+		"phone" : "Anonymous 8/21/2017 22:08",
+		"deliveryLocation" : "Anonymous 8/21/2017 22:09",
+		"logo" : "Anonymous 8/21/2017 22:06",
+		"serviceTime" : "Anonymous 8/21/2017 22:09"
+	},
+	"class" : {
+		"assertsOverDescription:" : "Alvaro 8/22/2017 18:42",
+		"assertsOverPhoneNumber:" : "Alvaro 8/22/2017 19:35",
+		"named:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "Alvaro 8/22/2017 19:32"
+	}
+}

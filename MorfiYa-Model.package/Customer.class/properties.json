@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"cuit",
+		"emailAddress",
+		"telephoneNumer",
+		"location"
+	],
+	"name" : "Customer",
+	"type" : "normal"
+}

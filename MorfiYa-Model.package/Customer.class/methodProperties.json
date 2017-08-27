@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"email" : "isosa 8/22/2017 18:22",
+		"telephone" : "isosa 8/22/2017 18:22",
+		"initializeNamed:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 18:19",
+		"name" : "isosa 8/22/2017 18:20",
+		"location" : "isosa 8/22/2017 18:23",
+		"identifier" : "isosa 8/22/2017 18:21"
+	},
+	"class" : {
+		"named:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 19:12",
+		"assertValidTaxpayerKey:" : "isosa 8/22/2017 19:17"
+	}
+}

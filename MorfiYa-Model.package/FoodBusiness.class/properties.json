@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"logo",
+		"location",
+		"address",
+		"mapLocation",
+		"description",
+		"website",
+		"email",
+		"phone",
+		"serviceTime",
+		"deliveryLocation"
+	],
+	"name" : "FoodBusiness",
+	"type" : "normal"
+}

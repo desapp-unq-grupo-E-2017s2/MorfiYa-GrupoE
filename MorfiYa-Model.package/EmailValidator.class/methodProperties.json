@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"validDomains" : "isosa 8/22/2017 20:57",
+		"validate:" : "isosa 8/22/2017 20:55",
+		"validateEmailStructureOf:" : "isosa 8/22/2017 20:53",
+		"validateDomainOf:" : "isosa 8/22/2017 20:53"
+	},
+	"class" : {
+		"current" : "isosa 8/22/2017 20:40"
+	}
+}

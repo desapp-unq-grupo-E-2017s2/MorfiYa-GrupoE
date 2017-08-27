@@ -1,0 +1,8 @@
+{
+	"instance" : {
+		"testAccessing" : "isosa 8/27/2017 12:49",
+		"testCustomerWithInvalidTaxpayerID" : "isosa 8/22/2017 19:18",
+		"testCustomerWithInvalidEmailAddress" : "isosa 8/22/2017 19:25"
+	},
+	"class" : { }
+}
