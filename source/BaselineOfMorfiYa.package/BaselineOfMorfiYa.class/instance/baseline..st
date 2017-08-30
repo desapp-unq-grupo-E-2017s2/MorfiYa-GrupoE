@@ -12,4 +12,4 @@ baseline: spec
 			spec
 				group: 'Deployment' with: #('MorfiYa-Model');
 				group: 'Development' with: #('Deployment' 'MorfiYa-Tests');
-				group: 'default' with: #('Deployment') ]
+				group: 'default' with: #('Development') ]
