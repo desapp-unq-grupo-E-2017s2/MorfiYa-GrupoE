@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AssertionFailed",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MoneyTransactionFailed",
+	"type" : "normal"
+}

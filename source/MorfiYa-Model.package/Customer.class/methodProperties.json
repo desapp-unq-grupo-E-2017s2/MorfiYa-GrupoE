@@ -1,11 +1,16 @@
 {
 	"instance" : {
-		"email" : "isosa 8/22/2017 18:22",
+		"extractMoney:" : "Alvaro 8/29/2017 17:56",
 		"telephone" : "isosa 8/22/2017 18:22",
-		"initializeNamed:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 18:19",
 		"name" : "isosa 8/22/2017 18:20",
+		"email" : "isosa 8/22/2017 18:22",
+		"money" : "Alvaro 8/29/2017 17:49",
 		"location" : "isosa 8/22/2017 18:23",
-		"identifier" : "isosa 8/22/2017 18:21"
+		"initialize" : "Alvaro 8/29/2017 17:31",
+		"identifier" : "isosa 8/22/2017 18:21",
+		"assertCanExtract:" : "Alvaro 8/29/2017 17:57",
+		"initializeNamed:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 18:19",
+		"depositMoney:" : "Alvaro 8/29/2017 17:51"
 	},
 	"class" : {
 		"named:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 19:12",

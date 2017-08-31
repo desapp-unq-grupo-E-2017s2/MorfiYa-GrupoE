@@ -1,17 +1,24 @@
 {
 	"instance" : {
-		"description" : "Anonymous 8/21/2017 22:07",
-		"email" : "Anonymous 8/21/2017 22:07",
+		"serviceTime" : "Anonymous 8/21/2017 22:09",
+		"initialize" : "Alvaro 8/29/2017 17:30",
+		"logo" : "Anonymous 8/21/2017 22:06",
+		"addScore:" : "isosa 8/29/2017 18:53",
+		"initializeNamed:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "isosa 8/29/2017 18:28",
 		"mapLocation" : "Anonymous 8/21/2017 22:07",
+		"money" : "Alvaro 8/29/2017 17:38",
 		"location" : "Anonymous 8/21/2017 22:06",
-		"initializeNamed:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "Anonymous 8/21/2017 22:08",
 		"businessName" : "Anonymous 8/21/2017 22:06",
-		"address" : "Anonymous 8/21/2017 22:06",
+		"extractMoney:" : "Alvaro 8/29/2017 17:33",
+		"assertCanExtract:" : "Alvaro 8/29/2017 17:37",
+		"description" : "Anonymous 8/21/2017 22:07",
+		"score" : "isosa 8/29/2017 18:43",
+		"email" : "Anonymous 8/21/2017 22:07",
+		"depositMoney:" : "Alvaro 8/29/2017 17:32",
 		"webSite" : "Anonymous 8/21/2017 22:07",
 		"phone" : "Anonymous 8/21/2017 22:08",
 		"deliveryLocation" : "Anonymous 8/21/2017 22:09",
-		"logo" : "Anonymous 8/21/2017 22:06",
-		"serviceTime" : "Anonymous 8/21/2017 22:09"
+		"address" : "Anonymous 8/21/2017 22:06"
 	},
 	"class" : {
 		"assertsOverDescription:" : "Alvaro 8/22/2017 18:42",

@@ -16,7 +16,8 @@
 		"email",
 		"phone",
 		"serviceTime",
-		"deliveryLocation"
+		"deliveryLocation",
+		"scores"
 	],
 	"name" : "FoodBusiness",
 	"type" : "normal"
