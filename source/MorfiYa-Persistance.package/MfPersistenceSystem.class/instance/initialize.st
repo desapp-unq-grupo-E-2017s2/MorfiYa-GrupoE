@@ -1,4 +1,5 @@
 Initialization
 initialize
-super initialize .
-NativeMySQLDriver beGlorpDefaultDriver.
+	super initialize.
+	self platform: MySQLPlatform new.
+	self connect

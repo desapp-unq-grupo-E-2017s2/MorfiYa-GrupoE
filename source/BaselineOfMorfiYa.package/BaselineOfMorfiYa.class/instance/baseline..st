@@ -1,15 +1,15 @@
 baselines
 baseline: spec
-
 	<baseline>
 	spec
 		for: #common
-		do: [ self setUpDependencies: spec.
+		do: [ spec
+				package: 'MorfiYa-Model';
+				package: 'MorfiYa-ModelTests' with: [ spec requires: 'MorfiYa-Model' ];
+				package: 'MorfiYa-Persistence';
+				package: 'MorfiYa-PersistenceTest' with: [ spec requires: 'MorfiYa-Persistence' ].
 			spec
-				package: 'MorfiYa-Model'
-					with: [ spec requires: #('Chalten' 'Buoy') ];
-				package: 'MorfiYa-Tests' with: [ spec requires: 'MorfiYa-Model' ].
-			spec
-				group: 'Deployment' with: #('MorfiYa-Model');
-				group: 'Development' with: #('Deployment' 'MorfiYa-Tests');
-				group: 'default' with: #('Development') ]
+				group: 'Deployment' with: #('MorfiYa-Model' 'MorfiYa-Persistence');
+				group: 'Development'
+					with: #('Deployment' 'MorfiYa-ModelTests' 'MorfiYa-PersistenceTest');
+				group: 'default' with: #('Deployment') ]

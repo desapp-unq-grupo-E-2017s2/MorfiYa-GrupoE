@@ -1,7 +1,9 @@
 {
 	"instance" : {
+		"testUpdateCustomer" : "Alvaro 9/5/2017 19:46",
+		"testAddCustomer" : "Alvaro 9/5/2017 19:21",
+		"testRemoveCustomer" : "Alvaro 9/5/2017 19:26",
 		"tearDown" : "Alvaro 9/5/2017 18:25",
-		"testAddCustomer" : "Alvaro 9/5/2017 18:29",
 		"setUp" : "Alvaro 9/5/2017 18:52"
 	},
 	"class" : { }

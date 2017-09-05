@@ -1,6 +1,6 @@
 initialization
-testAddCustomer
-	| customer customerFromDatabase |
+testRemoveCustomer
+	| customer |
 	self assert: persistenceSystem customersCount equals: 0.
 	customer := Customer
 		named: 'Hernan Coronel'
@@ -10,5 +10,5 @@ testAddCustomer
 		locatedIn: 'direccion'.
 	persistenceSystem addCustomer: customer.
 	self assert: persistenceSystem customersCount equals: 1.
-	customerFromDatabase := persistenceSystem allCustomers anyOne.
-	self assert: customerFromDatabase equals: customer
+	persistenceSystem removeCustomer: customer.
+	self assert: persistenceSystem customersCount equals: 0
