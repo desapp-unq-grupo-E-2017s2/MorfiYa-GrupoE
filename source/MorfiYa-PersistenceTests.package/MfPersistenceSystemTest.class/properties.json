@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "TestCase",
-	"category" : "MorfiYa-PersistanceTests",
+	"category" : "MorfiYa-PersistenceTests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

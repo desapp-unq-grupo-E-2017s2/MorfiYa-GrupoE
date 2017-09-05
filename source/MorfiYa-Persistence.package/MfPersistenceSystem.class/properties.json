@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "DescriptorSystem",
-	"category" : "MorfiYa-Persistance",
+	"category" : "MorfiYa-Persistence",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
