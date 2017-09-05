@@ -12,7 +12,7 @@ SmalltalkCISpec {
        #packages : [ 'MorfiYa*' ]
     },
     #include : {  
-       #packages : [ 'MorfiYa-Tests*' ]
+       #packages : [ 'MorfiYa-ModelTests*' ]
     }
   }
 } 
