@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MorfiYa-ModelTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"categories"
+	],
+	"name" : "FoodMenuTest",
+	"type" : "normal"
+}

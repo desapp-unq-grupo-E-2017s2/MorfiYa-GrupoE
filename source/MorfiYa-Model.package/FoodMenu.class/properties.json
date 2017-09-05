@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"description",
+		"categories",
+		"deliveryValue",
+		"validDatePeriod",
+		"deliveryTimePeriod",
+		"deliveryTimeAverage",
+		"price",
+		"minimumQuantity",
+		"minimumQuantityPrice",
+		"minimumQuantity2",
+		"minimumQuantityPrice2",
+		"maximumSaleQuantity"
+	],
+	"name" : "FoodMenu",
+	"type" : "normal"
+}

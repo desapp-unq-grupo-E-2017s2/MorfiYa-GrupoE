@@ -1,0 +1,3 @@
+accessing
+maximumSaleQuantity
+	^ maximumSaleQuantity

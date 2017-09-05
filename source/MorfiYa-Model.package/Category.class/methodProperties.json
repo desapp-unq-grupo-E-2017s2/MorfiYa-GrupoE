@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"initializeDescription:" : "NahuelBenitez 9/5/2017 19:08"
+	},
+	"class" : {
+		"allCategories" : "NahuelBenitez 9/5/2017 19:20",
+		"turnover" : "NahuelBenitez 9/5/2017 19:12",
+		"burguer" : "NahuelBenitez 9/5/2017 19:10",
+		"vegan" : "NahuelBenitez 9/5/2017 19:13",
+		"green" : "NahuelBenitez 9/5/2017 19:12",
+		"pizza" : "NahuelBenitez 9/5/2017 19:07",
+		"sushi" : "NahuelBenitez 9/5/2017 19:10",
+		"beer" : "NahuelBenitez 9/5/2017 19:09"
+	}
+}
