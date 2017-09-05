@@ -9,7 +9,7 @@ SmalltalkCISpec {
   ],
   #testing : {
     #coverage : {
-       #packages : [ 'MorfiYa*' ]
+       #packages : [ 'MorfiYa-Model*' ]
     },
     #include : {  
        #packages : [ 'MorfiYa-ModelTests*' ]
