@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"testInstanceCreationFailedBecausePhoneNumberIsLong" : "Alvaro 8/22/2017 20:29",
+		"testExtraxtMoney" : "Alvaro 8/29/2017 17:30",
+		"testDepositMoney" : "Alvaro 8/29/2017 17:56",
+		"testInstanceCreationFailedBecausePhoneNumberIsShort" : "Alvaro 8/22/2017 20:30",
+		"testExtraxtMoneyFailedBecauseOfInsuficientMoney" : "Alvaro 8/29/2017 17:41",
+		"testAccessing" : "Alvaro 8/22/2017 20:29",
+		"testInstanceCreationFailedBecauseDescriptionIsShort" : "Alvaro 8/22/2017 20:29",
+		"testInstanceCreationFailedBecauseDescriptionIsLong" : "Alvaro 8/22/2017 20:29",
+		"testInstanceCreationFailedBecausePhoneNumberIsAnAllZerosNumber" : "Alvaro 8/22/2017 20:29"
+	},
+	"class" : { }
+}

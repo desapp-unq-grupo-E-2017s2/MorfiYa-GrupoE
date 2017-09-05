@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MorfiYa-PersistanceTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"persistenceSystem"
+	],
+	"name" : "MfPersistenceSystemTest",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "DescriptorSystem",
+	"category" : "MorfiYa-Persistance",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"glorpSession",
+		"connectionFailed"
+	],
+	"name" : "MfPersistenceSystem",
+	"type" : "normal"
+}

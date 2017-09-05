@@ -1,6 +1,5 @@
 Initialization
 initializeNamed: aName withLogo: aLogo locationAt: aLocation address: anAddress mapLocation: aPoint described: aDescription webSite: aWebsite email: anEmail phone: aPhoneNumber serviceTime: aCollection deliveryLocation: anotherLocation 
-
 	name:= aName.
 	logo := aLogo.
 	location := aLocation.
@@ -11,5 +10,4 @@ initializeNamed: aName withLogo: aLogo locationAt: aLocation address: anAddress 
 	email := anEmail  .
 	phone := aPhoneNumber .
 	serviceTime := aCollection .
-	deliveryLocation := anotherLocation.
-	scores := OrderedCollection new. 
+	deliveryLocation := anotherLocation 

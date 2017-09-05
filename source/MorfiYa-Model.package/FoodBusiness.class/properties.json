@@ -17,7 +17,7 @@
 		"phone",
 		"serviceTime",
 		"deliveryLocation",
-		"scores"
+		"money"
 	],
 	"name" : "FoodBusiness",
 	"type" : "normal"
