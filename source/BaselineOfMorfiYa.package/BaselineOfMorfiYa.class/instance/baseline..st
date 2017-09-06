@@ -3,7 +3,9 @@ baseline: spec
 	<baseline>
 	spec
 		for: #common
-		do: [ spec
+		do: [
+			self setUpDependencies: spec. 
+			spec
 				package: 'MorfiYa-Model';
 				package: 'MorfiYa-ModelTests' with: [ spec requires: 'MorfiYa-Model' ];
 				package: 'MorfiYa-Persistence';
