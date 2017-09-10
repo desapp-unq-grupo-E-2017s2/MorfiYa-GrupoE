@@ -4,6 +4,11 @@ sudo: false
 # Select operating system(s)
 os:
   - linux
+  
+services:
+  - mysql
+before_install:
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS morfiya;'
 
 # Select compatible Smalltalk image(s)
 smalltalk:
