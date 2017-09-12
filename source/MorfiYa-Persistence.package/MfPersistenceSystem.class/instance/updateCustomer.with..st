@@ -1,5 +1,5 @@
 Customer-Query
 updateCustomer: aCustomer with: anotherCustomer
 	self glorpSession
-		inUnitOfWorkDo: [ aCustomer synchronizeWIth: anotherCustomer.
+		inUnitOfWorkDo: [ aCustomer synchronizeWith: anotherCustomer.
 			self glorpSession register: aCustomer ]

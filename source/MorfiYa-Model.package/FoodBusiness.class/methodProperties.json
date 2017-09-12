@@ -5,7 +5,7 @@
 		"email" : "Anonymous 8/21/2017 22:07",
 		"mapLocation" : "Anonymous 8/21/2017 22:07",
 		"money" : "Alvaro 8/29/2017 17:38",
-		"initializeNamed:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "Anonymous 8/21/2017 22:08",
+		"initializeNamed:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "isosa 9/12/2017 18:02",
 		"initialize" : "Alvaro 8/29/2017 17:30",
 		"businessName" : "Anonymous 8/21/2017 22:06",
 		"assertCanExtract:" : "Alvaro 8/29/2017 17:37",
@@ -21,6 +21,6 @@
 	"class" : {
 		"assertsOverDescription:" : "Alvaro 8/22/2017 18:42",
 		"assertsOverPhoneNumber:" : "Alvaro 8/22/2017 19:35",
-		"named:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "Alvaro 8/22/2017 19:32"
+		"named:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "isosa 9/12/2017 18:02"
 	}
 }

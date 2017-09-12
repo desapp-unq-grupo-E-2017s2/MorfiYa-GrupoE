@@ -1,1 +1,1 @@
-(name 'MorfiYa-ModelTests-Alvaro.1' message 'sada' id '33c645fe-d914-0d00-94ea-91dc046f2174' date '5 September 2017' time '6:53:23.683177 pm' author 'Alvaro' ancestors () stepChildren ())
+(name 'MorfiYa-ModelTests-isosa.2' message 'Some minor changes' id 'fba69361-6615-0d00-88f1-05f50e2b9f48' date '12 September 2017' time '6:22:45.152507 pm' author 'isosa' ancestors ((name 'MorfiYa-ModelTests-Alvaro.1' message 'sada' id '33c645fe-d914-0d00-94ea-91dc046f2174' date '5 September 2017' time '6:53:23.683177 pm' author 'Alvaro' ancestors () stepChildren ())) stepChildren ())

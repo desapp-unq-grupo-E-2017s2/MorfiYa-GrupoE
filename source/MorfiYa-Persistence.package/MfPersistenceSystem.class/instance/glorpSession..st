@@ -1,3 +1,3 @@
-accessing
+Accessing
 glorpSession: aGlorpSession
 	glorpSession := aGlorpSession

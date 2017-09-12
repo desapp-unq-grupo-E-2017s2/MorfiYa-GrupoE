@@ -1,1 +1,1 @@
-(name 'MorfiYa-Persistence-Alvaro.1' message 'asd' id 'f63b8bd6-da14-0d00-94f0-3583046f2174' date '5 September 2017' time '7:53:52.113943 pm' author 'Alvaro' ancestors () stepChildren ())
+(name 'MorfiYa-Persistence-isosa.2' message 'Some minor changes' id 'e3ef4362-6615-0d00-88f2-18630e2b9f48' date '12 September 2017' time '6:22:56.705507 pm' author 'isosa' ancestors ((name 'MorfiYa-Persistence-Alvaro.1' message 'asd' id 'f63b8bd6-da14-0d00-94f0-3583046f2174' date '5 September 2017' time '7:53:52.113943 pm' author 'Alvaro' ancestors () stepChildren ())) stepChildren ())

@@ -1,5 +1,5 @@
 tests
-testExtraxtMoney
+testExtractMoney
 	| business |
 	business := FoodBusiness
 		named: 'McDonalds'

@@ -1,5 +1,5 @@
 tests
-testExtraxtMoneyFailedBecauseOfInsuficientMoney
+testExtractMoneyFailedBecauseOfInsuficientMoney
 	| business |
 	business := FoodBusiness
 		named: 'McDonalds'
