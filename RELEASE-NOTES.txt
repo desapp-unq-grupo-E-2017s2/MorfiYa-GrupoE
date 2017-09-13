@@ -1,0 +1,26 @@
+ENTREGA 1
+
+-------------------------------
+TAG 1.0
+-------------------------------
+
+NEW FEATURES:
+
+* Model - Almost completed
+* Continous Integration - Completed 
+* Semi-manual deploy - Completed
+* Coveralls - Completed
+* Unit testing (98%) - Almost competed
+* Proof of Concept Google Maps API - Completed
+
+NOTES:
+
+- Missing Purchase in model
+
+
+
+
+
+
+
+
