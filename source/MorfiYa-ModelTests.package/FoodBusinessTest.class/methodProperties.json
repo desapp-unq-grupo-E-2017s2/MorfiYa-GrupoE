@@ -2,12 +2,15 @@
 	"instance" : {
 		"testInstanceCreationFailedBecausePhoneNumberIsAnAllZerosNumber" : "Alvaro 8/22/2017 20:29",
 		"testDepositMoney" : "Alvaro 8/29/2017 17:56",
+		"testScoreIsZeroWhenUnrated" : "isosa 8/29/2017 23:23",
 		"testInstanceCreationFailedBecauseDescriptionIsLong" : "Alvaro 8/22/2017 20:29",
+		"testScoreOutOfRange" : "isosa 8/29/2017 18:53",
 		"testInstanceCreationFailedBecauseDescriptionIsShort" : "Alvaro 8/22/2017 20:29",
 		"testInstanceCreationFailedBecausePhoneNumberIsLong" : "Alvaro 8/22/2017 20:29",
 		"testExtractMoneyFailedBecauseOfInsuficientMoney" : "isosa 9/12/2017 18:07",
 		"testExtractMoney" : "isosa 8/29/2017 23:20",
 		"testAccessing" : "Alvaro 8/22/2017 20:29",
+		"testScore" : "isosa 8/29/2017 18:33",
 		"testExtraxtMoneyFailedBecauseOfInsuficientMoney" : "Alvaro 8/29/2017 17:41",
 		"testInstanceCreationFailedBecausePhoneNumberIsShort" : "Alvaro 8/22/2017 20:30"
 	},

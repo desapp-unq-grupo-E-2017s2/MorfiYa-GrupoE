@@ -1,4 +1,4 @@
-Accessing
+accessing
 email
 
 	^emailAddress 
