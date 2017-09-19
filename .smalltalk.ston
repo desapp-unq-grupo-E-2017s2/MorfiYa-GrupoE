@@ -3,7 +3,7 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
       #baseline : 'MorfiYa',
       #directory : 'source',
-      #load : [ 'Entrega1' ],
+      #load : [ 'Development' ],
       #platforms : [  #pharo ]
     }
   ],
