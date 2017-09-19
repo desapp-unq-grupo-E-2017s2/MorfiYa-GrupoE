@@ -12,5 +12,5 @@ setUpDependencies: spec
 				loads: #('Core') ].
 	spec configuration: 'Glorp' with: [
 			spec 
-				versionString: #stable;
+				versionString: '1.10';
 repository: 'http://www.smalltalkhub.com/mc/DBXTalk/Configurations/main' ].
