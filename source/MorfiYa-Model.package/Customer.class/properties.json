@@ -6,11 +6,13 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"id",
 		"name",
 		"cuit",
 		"emailAddress",
 		"telephoneNumer",
-		"location"
+		"location",
+		"money"
 	],
 	"name" : "Customer",
 	"type" : "normal"
