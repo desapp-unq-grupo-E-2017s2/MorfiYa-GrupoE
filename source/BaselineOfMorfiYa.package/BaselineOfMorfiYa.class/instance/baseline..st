@@ -13,5 +13,4 @@ baseline: spec
 				group: 'Deployment' with: #('MorfiYa-Model' 'MorfiYa-Persistence');
 				group: 'Development'
 					with: #('Deployment' 'MorfiYa-ModelTests' 'MorfiYa-PersistenceTests');
-				group: 'Entrega1' with: #('MorfiYa-Model' 'MorfiYa-ModelTests' );
-				group: 'default' with: #('Entrega1') ]
+				group: 'default' with: #('Development') ]
