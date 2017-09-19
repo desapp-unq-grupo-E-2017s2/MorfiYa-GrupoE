@@ -14,7 +14,3 @@ setUpDependencies: spec
 			spec 
 				versionString: #stable;
 repository: 'http://www.smalltalkhub.com/mc/DBXTalk/Configurations/main' ].
-spec configuration: 'GlorpDriverMySQL' with: [
-			spec 
-				versionString: #bleedingEdge;
-repository: 'http://www.smalltalkhub.com/mc/ThomasHeniart/GlorpDriverMySQL/main' ]
