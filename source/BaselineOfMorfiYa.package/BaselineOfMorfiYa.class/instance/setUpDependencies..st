@@ -12,5 +12,9 @@ setUpDependencies: spec
 				loads: #('Core') ].
 	spec configuration: 'Glorp' with: [
 			spec 
-				versionString: '1.10';
+				versionString: #stable;
 repository: 'http://www.smalltalkhub.com/mc/DBXTalk/Configurations/main' ].
+spec configuration: 'GlorpDriverMySQL' with: [
+			spec 
+				versionString: #bleedingEdge;
+repository: 'http://www.smalltalkhub.com/mc/ThomasHeniart/GlorpDriverMySQL/main' ]
