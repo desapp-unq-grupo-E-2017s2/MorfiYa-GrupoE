@@ -8,6 +8,7 @@ os:
 services:
   - mysql
 before_install:
+  - mysql -u root -e "SET PASSWORD FOR 'root'@'localhost' = PASSWORD('');"
   - mysql -e 'CREATE DATABASE IF NOT EXISTS morfiya;'
 
 # Select compatible Smalltalk image(s)
