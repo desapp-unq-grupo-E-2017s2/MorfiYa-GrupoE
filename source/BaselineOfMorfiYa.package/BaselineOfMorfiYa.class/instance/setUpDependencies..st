@@ -17,5 +17,5 @@ repository: 'http://www.smalltalkhub.com/mc/DBXTalk/Configurations/main' ].
 spec
 		baseline: 'GlorpDriverMySQL'
 		with: [ spec
-				repository: 'github://alvarop100/GlorpDriverMySQL:master/source';
+				repository: 'github://apiorno/GlorpDriverMySQL:master/source';
 loads: #('Deployment') ].
