@@ -1,4 +1,4 @@
-initialization
+Tests
 testRemoveCustomer
 	| customer |
 	self assert: customerPersistenceSystem customersCount equals: 0.

@@ -1,4 +1,4 @@
-initialization
+Tests
 testUpdateCustomer
 	| customer anotherCustomer customerFromDatabase |
 	self assert: customerPersistenceSystem customersCount equals: 0.
