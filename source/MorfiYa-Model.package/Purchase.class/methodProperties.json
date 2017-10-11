@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"deliveryType" : "NahuelBenitez 9/11/2017 23:13",
+		"estimatedTimeForDelivery" : "NahuelBenitez 10/10/2017 21:06",
+		"deliveryTime" : "NahuelBenitez 9/11/2017 23:15",
+		"deliveryDate" : "NahuelBenitez 9/11/2017 23:13",
+		"quantity" : "NahuelBenitez 9/12/2017 01:08",
+		"initializeMenus:deliveryType:deliveryDate:deliverTime:customer:" : "NahuelBenitez 10/10/2017 21:03",
+		"menus" : "NahuelBenitez 10/10/2017 21:01",
+		"customer" : "NahuelBenitez 9/26/2017 17:39"
+	},
+	"class" : {
+		"menus:deliveryType:deliveryDate:deliveryTime:customer:" : "NahuelBenitez 10/10/2017 21:22",
+		"assertOverDeliveryDate:" : "NahuelBenitez 9/26/2017 17:33",
+		"assertOverMenus:" : "NahuelBenitez 10/10/2017 21:20"
+	}
+}
