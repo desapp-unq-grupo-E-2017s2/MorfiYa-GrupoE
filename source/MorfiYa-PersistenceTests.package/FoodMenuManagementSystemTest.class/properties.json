@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MorfiYa-PersistenceTests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"persistenceSystem",
+		"foodMenuPersistenceSystem",
+		"burguerCategory"
+	],
+	"name" : "FoodMenuManagementSystemTest",
+	"type" : "normal"
+}
