@@ -1,4 +1,4 @@
-initialization
+Accessing
 name
 
 	^name

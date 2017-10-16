@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"lastName" : "Alvaro 10/16/2017 17:21",
+		"deposit:" : "Alvaro 10/16/2017 17:54",
+		"name" : "Alvaro 10/16/2017 17:21",
+		"money" : "Alvaro 10/16/2017 17:44",
+		"initialize" : "Alvaro 10/16/2017 17:44",
+		"validateExtractionOf:" : "Alvaro 10/16/2017 17:59",
+		"initializeIdentifiedBy:named:and:describedAs:" : "Alvaro 10/16/2017 17:44",
+		"clientInfo" : "Alvaro 10/16/2017 17:22",
+		"cuit" : "Alvaro 10/16/2017 17:20",
+		"extract:" : "Alvaro 10/16/2017 17:59"
+	},
+	"class" : {
+		"validateTaxPayierIdentifier:" : "Alvaro 10/16/2017 18:12",
+		"identifiedBy:named:and:describedAs:" : "Alvaro 10/16/2017 18:09"
+	}
+}

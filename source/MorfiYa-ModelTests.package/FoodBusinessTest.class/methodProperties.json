@@ -1,12 +1,8 @@
 {
 	"instance" : {
-		"testExtractMoneyFailedBecauseOfInsuficientMoney" : "isosa 10/16/2017 17:23",
-		"testDepositMoney" : "isosa 10/16/2017 17:20",
-		"testExtraxtMoneyFailedBecauseOfInsuficientMoney" : "isosa 10/16/2017 17:23",
 		"testAccessing" : "isosa 10/16/2017 17:19",
-		"testInstanceCreationFailedBecauseDescriptionIsShort" : "isosa 10/16/2017 17:25",
-		"testExtractMoney" : "isosa 10/16/2017 17:21",
-		"testInstanceCreationFailedBecauseDescriptionIsLong" : "isosa 10/16/2017 17:24"
+		"testInstanceCreationFailedBecauseDescriptionIsLong" : "isosa 10/16/2017 17:24",
+		"testInstanceCreationFailedBecauseDescriptionIsShort" : "isosa 10/16/2017 17:25"
 	},
 	"class" : { }
 }

@@ -1,0 +1,3 @@
+Auxiliar
+minoristMinimum
+	^10

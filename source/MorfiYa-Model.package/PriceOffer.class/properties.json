@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "Alvaro 10/16/2017 14:12",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"minoristRange",
+		"minoristPrice",
+		"mayoristRange",
+		"mayoristPrice"
+	],
+	"name" : "PriceOffer",
+	"type" : "normal"
+}

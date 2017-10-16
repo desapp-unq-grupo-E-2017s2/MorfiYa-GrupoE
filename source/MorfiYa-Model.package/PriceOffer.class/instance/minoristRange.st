@@ -1,0 +1,3 @@
+Accessing
+minoristRange
+	^ minoristRange

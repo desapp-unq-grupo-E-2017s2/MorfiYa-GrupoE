@@ -1,10 +1,6 @@
 {
 	"instance" : {
-		"testExtractMoneyFailedBecauseOfInsuficientMoney" : "isosa 10/16/2017 16:53",
-		"testCustomerWithInvalidTaxpayerID" : "isosa 10/16/2017 16:46",
-		"testDepositMoney" : "isosa 10/16/2017 16:51",
-		"testAccessing" : "isosa 10/16/2017 16:45",
-		"testExtractMoney" : "isosa 10/16/2017 16:52"
+		"testAccessing" : "isosa 10/16/2017 19:49"
 	},
 	"class" : { }
 }

@@ -1,5 +1,6 @@
 tests
 testAccessing
+
 	| customer contactInfo |
 	
 	contactInfo := ContactInformation
@@ -16,5 +17,4 @@ testAccessing
 		assert: customer email equals: 'hernan.coronel@yahoo.com';
 		assert: customer telephone equals: '42523060';
 		assert: customer address equals: 'Calle falsa 123';
-		assert: customer location equals: 'Springfield';
-		assert: customer money equals: 0
+		assert: customer location equals: 'Springfield'

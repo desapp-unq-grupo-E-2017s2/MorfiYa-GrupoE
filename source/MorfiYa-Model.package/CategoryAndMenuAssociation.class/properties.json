@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "Alvaro 10/16/2017 14:18",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"category",
+		"foodMenu"
+	],
+	"name" : "CategoryAndMenuAssociation",
+	"type" : "normal"
+}
