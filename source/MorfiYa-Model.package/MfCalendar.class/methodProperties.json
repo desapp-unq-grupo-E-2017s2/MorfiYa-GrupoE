@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"addNonWorkingDay:from:to:" : "Alvaro 8/22/2017 21:16",
+		"addNonWorkingDay:from:to:" : "isosa 10/16/2017 17:46",
 		"initialize" : "Alvaro 8/22/2017 20:46",
-		"addNonWorkingDay:" : "Alvaro 8/22/2017 20:55",
+		"addNonWorkingDay:" : "isosa 10/16/2017 17:42",
 		"removeNonWorkingDay:" : "Alvaro 8/22/2017 21:02",
 		"rules" : "Alvaro 8/22/2017 20:46",
 		"isNonWorkingDay:" : "Alvaro 8/22/2017 20:55"

@@ -1,4 +1,4 @@
 accessing
 email
 
-	^emailAddress 
+	^contactInformation email

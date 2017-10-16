@@ -1,3 +1,0 @@
-accessing
-minimumQuantityPrice2
-	^ minimumQuantityPrice2

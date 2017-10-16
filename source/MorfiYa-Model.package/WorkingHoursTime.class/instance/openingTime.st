@@ -1,0 +1,4 @@
+accessing - computed
+openingTime
+
+	^ openingTime

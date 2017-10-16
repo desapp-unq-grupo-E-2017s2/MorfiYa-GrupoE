@@ -1,5 +1,6 @@
 Updating
 synchronizeWith: aCustomer
+
 	name := aCustomer name.
 	cuit := aCustomer identifier.
 	emailAddress := aCustomer email.

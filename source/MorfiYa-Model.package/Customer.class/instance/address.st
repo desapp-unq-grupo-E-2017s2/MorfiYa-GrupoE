@@ -1,0 +1,4 @@
+accessing
+address
+
+	^contactInformation address 

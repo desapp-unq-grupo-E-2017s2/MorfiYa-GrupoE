@@ -12,7 +12,8 @@
 		"emailAddress",
 		"telephoneNumer",
 		"location",
-		"money"
+		"money",
+		"contactInformation"
 	],
 	"name" : "Customer",
 	"type" : "normal"

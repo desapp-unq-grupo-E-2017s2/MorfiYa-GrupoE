@@ -1,5 +1,4 @@
 accessing
 telephone
 
-
-	^telephoneNumer 
+	^contactInformation phoneNumber 
