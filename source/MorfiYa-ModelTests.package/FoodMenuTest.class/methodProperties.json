@@ -2,7 +2,6 @@
 	"instance" : {
 		"testInstanceCreationFailedBecauseValidDatePeriodIsNil" : "Alvaro 10/17/2017 11:55",
 		"testInstanceCreationFailedBecauseDeliveryTimeAverageIsNil" : "Alvaro 10/17/2017 11:51",
-		"setUp" : "NahuelBenitez 9/5/2017 19:55",
 		"testInstanceCreationFailedBecauseMaximumSalesQuantityIsNil" : "Alvaro 10/17/2017 11:53",
 		"testInstanceCreationFailedBecauseNameIsLong" : "Alvaro 10/17/2017 11:53",
 		"testInstanceCreationFailedBecauseDescriptionIsShort" : "Alvaro 10/17/2017 11:52",

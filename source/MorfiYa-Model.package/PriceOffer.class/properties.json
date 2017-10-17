@@ -6,9 +6,12 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"minoristRange",
+		"id",
+		"minoristRangeStart",
+		"minoristRangeEnd",
 		"minoristPrice",
-		"mayoristRange",
+		"mayoristRangeStart",
+		"mayoristRangeEnd",
 		"mayoristPrice"
 	],
 	"name" : "PriceOffer",

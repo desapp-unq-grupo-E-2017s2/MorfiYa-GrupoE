@@ -1,3 +1,3 @@
 Test Support
 category
-	^Category sushi 
+	^Category initializeSushi 

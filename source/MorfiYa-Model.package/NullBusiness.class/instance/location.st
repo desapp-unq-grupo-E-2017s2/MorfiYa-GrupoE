@@ -1,0 +1,3 @@
+Accessing
+location
+	^ 'Null location'

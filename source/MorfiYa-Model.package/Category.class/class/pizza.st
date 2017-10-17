@@ -1,4 +1,3 @@
-constants
+Accessing
 pizza
-
-	^self new initializeDescription: 'Pizza'
+	^ self contents at: 'pizza'

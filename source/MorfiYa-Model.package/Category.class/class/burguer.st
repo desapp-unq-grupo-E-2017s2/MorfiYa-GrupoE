@@ -1,4 +1,3 @@
-constants
+Accessing
 burguer
-
-	^self new initializeDescription: 'Hamburguesa'
+	^ self contents at: 'burguer'

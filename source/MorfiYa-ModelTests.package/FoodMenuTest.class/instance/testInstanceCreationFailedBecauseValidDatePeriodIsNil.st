@@ -1,4 +1,4 @@
-tests
+Tests
 testInstanceCreationFailedBecauseValidDatePeriodIsNil
 	| workingHoursTime |
 	workingHoursTime := OrderedCollection new

@@ -1,5 +1,5 @@
 initialization
 setUp
 	persistenceSystem := GeneralPersistenceSystem start.
-	foodMenuPersistenceSystem := FoodMenuManagementSystem using: persistenceSystem.
+	foodMenuPersistenceSystem := FoodMenuesManagementSystem using: persistenceSystem.
 	persistenceSystem dropAllThenCreateSchema

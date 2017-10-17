@@ -1,4 +1,3 @@
-constants
+Accessing
 vegan
-
-	^self new initializeDescription: 'Vegano'
+	^ self contents at: 'vegan'

@@ -1,4 +1,4 @@
-tests
+Tests
 testInstanceCreationFailedBecauseDeliveryTimeAverageIsNil
 	| workingHoursTime |
 	workingHoursTime := OrderedCollection new

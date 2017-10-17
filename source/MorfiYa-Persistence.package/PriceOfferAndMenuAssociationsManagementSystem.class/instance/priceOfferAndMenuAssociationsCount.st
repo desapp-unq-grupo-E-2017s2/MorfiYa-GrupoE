@@ -1,0 +1,3 @@
+Querying
+priceOfferAndMenuAssociationsCount
+	^ generalPersistenceSystem countOf: self describedClass

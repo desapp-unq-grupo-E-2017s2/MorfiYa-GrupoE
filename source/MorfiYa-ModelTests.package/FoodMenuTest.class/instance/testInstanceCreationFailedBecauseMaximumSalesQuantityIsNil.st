@@ -1,4 +1,4 @@
-tests
+Tests
 testInstanceCreationFailedBecauseMaximumSalesQuantityIsNil
 	| workingHoursTime |
 	workingHoursTime := OrderedCollection new

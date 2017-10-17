@@ -1,4 +1,4 @@
-tests
+Tests
 testAccesing
 	| workingHoursTime foodMenu |
 	workingHoursTime := OrderedCollection new

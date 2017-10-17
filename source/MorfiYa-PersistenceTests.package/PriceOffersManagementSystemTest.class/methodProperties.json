@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"anotherPriceOffer" : "Alvaro 10/17/2017 16:56",
+		"priceOffer" : "Alvaro 10/17/2017 16:51",
+		"testRemovePriceOffer" : "Alvaro 10/17/2017 16:53",
+		"tearDown" : "Alvaro 10/17/2017 16:47",
+		"testAddPriceOffer" : "Alvaro 10/17/2017 16:50",
+		"setUp" : "Alvaro 10/17/2017 16:46",
+		"testUpdatePriceOffer" : "Alvaro 10/17/2017 16:58"
+	},
+	"class" : { }
+}

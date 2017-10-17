@@ -1,4 +1,0 @@
-Accessing
-location
-
-	^contactInformation locality

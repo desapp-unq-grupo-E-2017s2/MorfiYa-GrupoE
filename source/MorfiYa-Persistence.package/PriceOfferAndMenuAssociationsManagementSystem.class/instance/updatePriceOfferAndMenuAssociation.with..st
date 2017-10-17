@@ -1,0 +1,3 @@
+Querying
+updatePriceOfferAndMenuAssociation: anAssociation with: anotherAssociation
+	generalPersistenceSystem update: anAssociation with: anotherAssociation

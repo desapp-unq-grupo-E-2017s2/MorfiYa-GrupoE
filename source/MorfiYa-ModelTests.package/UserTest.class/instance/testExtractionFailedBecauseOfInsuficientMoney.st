@@ -1,7 +1,7 @@
 tests
 testExtractionFailedBecauseOfInsuficientMoney
 	| user clientInfo |
-	clientInfo := self clientInfo.
+	clientInfo := self contactInformation.
 	user := User
 		identifiedBy: '23344567899'
 		named: 'name'

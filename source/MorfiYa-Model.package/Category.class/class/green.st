@@ -1,4 +1,3 @@
-constants
+Accessing
 green
-
-	^self new initializeDescription: 'Green'
+	^ self contents at: 'green'

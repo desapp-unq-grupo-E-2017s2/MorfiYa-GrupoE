@@ -1,7 +1,7 @@
 tests
 testInstanceCreationFailedBecauseOfWrongCuit
 	| clientInfo |
-	clientInfo := self clientInfo.
+	clientInfo := self contactInformation.
 	self
 		should: [ User
 				identifiedBy: '2334456789'

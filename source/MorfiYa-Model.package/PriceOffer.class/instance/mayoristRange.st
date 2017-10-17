@@ -1,3 +1,3 @@
 Accessing
 mayoristRange
-	^ mayoristRange
+	^ mayoristRangeStart to: mayoristRangeEnd

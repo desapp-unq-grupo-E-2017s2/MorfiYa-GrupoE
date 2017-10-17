@@ -1,4 +1,4 @@
-tests
+Tests
 testInstanceCreationFailedBecauseDescriptionIsShort
 	| workingHoursTime |
 	workingHoursTime := OrderedCollection new

@@ -1,0 +1,3 @@
+Accessing
+address
+	^'Null adress'

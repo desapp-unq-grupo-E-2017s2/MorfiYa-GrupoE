@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"association" : "Alvaro 10/17/2017 17:19",
+		"testAddPriceOfferAndMenuAssociation" : "Alvaro 10/17/2017 17:20",
+		"priceOffer" : "Alvaro 10/17/2017 17:20",
+		"setUp" : "Alvaro 10/17/2017 17:02",
+		"tearDown" : "Alvaro 10/17/2017 17:03",
+		"menu" : "Alvaro 10/17/2017 17:19",
+		"testRemovePriceOfferAndMenuAssociation" : "Alvaro 10/17/2017 17:22",
+		"testUpdatePriceOfferAndMenuAssociation" : "Alvaro 10/17/2017 17:28"
+	},
+	"class" : { }
+}

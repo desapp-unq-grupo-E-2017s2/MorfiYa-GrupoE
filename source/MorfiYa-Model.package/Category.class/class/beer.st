@@ -1,4 +1,3 @@
-constants
+Accessing
 beer
-
-	^self new initializeDescription: 'Cerveza'
+	^ self contents at: 'beer'

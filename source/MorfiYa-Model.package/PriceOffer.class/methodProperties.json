@@ -1,11 +1,13 @@
 {
 	"instance" : {
-		"initializeOfMinoristRange:forMinoristPrice:andMayoristRange:forMayororistPrice:" : "Alvaro 10/16/2017 13:59",
 		"mayoristPrice" : "Alvaro 10/16/2017 14:00",
+		"initializeOfMinoristRange:forMinoristPrice:andMayoristRange:forMayororistPrice:" : "Alvaro 10/17/2017 14:58",
 		"priceFor:" : "Alvaro 10/17/2017 10:14",
-		"minoristRange" : "Alvaro 10/16/2017 14:00",
+		"synchronizeWith:" : "Alvaro 10/17/2017 17:44",
+		"minoristRange" : "Alvaro 10/17/2017 14:58",
 		"minoristPrice" : "Alvaro 10/16/2017 14:00",
-		"mayoristRange" : "Alvaro 10/16/2017 14:00"
+		"id" : "Alvaro 10/17/2017 17:36",
+		"mayoristRange" : "Alvaro 10/17/2017 14:58"
 	},
 	"class" : {
 		"validateMayoristRange:" : "Alvaro 10/16/2017 14:40",

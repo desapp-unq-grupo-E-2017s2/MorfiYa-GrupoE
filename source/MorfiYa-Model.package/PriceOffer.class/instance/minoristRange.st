@@ -1,3 +1,3 @@
 Accessing
 minoristRange
-	^ minoristRange
+	^ minoristRangeStart to: minoristRangeEnd 
