@@ -1,31 +1,26 @@
 tests
 testAccesing
-	| foodMenu |
+	| workingHoursTime foodMenu |
+	workingHoursTime := OrderedCollection new
+		add: (WorkingHoursTime on: Monday from: 8 to: 20);
+		add: (WorkingHoursTime on: Tuesday from: 8 to: 20);
+		add: (WorkingHoursTime on: Wednesday from: 8 to: 20);
+		add: (WorkingHoursTime on: Thursday from: 8 to: 20);
+		add: (WorkingHoursTime on: Friday from: 8 to: 20);
+		yourself.
 	foodMenu := FoodMenu
 		named: 'McCombo'
 		description: 'Burguer + fries and coke'
-		categories: categories
-		deliveryValue: 40
-		validDatePeriod: {((Monday to: Friday) -> (8 to: 20))} asDictionary
-		deliveryTimePeriod: {((Monday to: Friday) -> (8 to: 20))} asDictionary
+		validDatePeriod: workingHoursTime
+		deliveryTimePeriod: (8 to: 20)
 		deliveryTimeAverage: 60
 		price: 30
-		minimumQuantity: 10
-		minimumQuantityPrice: 20
-		minimumQuantity2: 71
-		minimumQuantityPrice2: 10
 		maximumSaleQuantity: 200.
 	self
-		assert: foodMenu menuName equals: 'McCombo';
+		assert: foodMenu name equals: 'McCombo';
 		assert: foodMenu description equals: 'Burguer + fries and coke';
-		assert: foodMenu categories equals: categories;
-		assert: foodMenu deliveryValue equals: 40;
-		assert: foodMenu validDatePeriod equals: {((Monday to: Friday) -> (8 to: 20))} asDictionary;
-		assert: foodMenu deliveryTimePeriod equals: {((Monday to: Friday) -> (8 to: 20))} asDictionary;
+		assert: foodMenu validDatePeriod equals: workingHoursTime;
+		assert: foodMenu deliveryTimePeriod equals: (8 to: 20);
 		assert: foodMenu deliveryTimeAverage equals: 60;
 		assert: foodMenu price equals: 30;
-		assert: foodMenu minimumQuantity equals: 10;
-		assert: foodMenu minimumQuantityPrice equals: 20;
-		assert: foodMenu minimumQuantity2 equals: 71;
-		assert: foodMenu minimumQuantityPrice2 equals: 10;
 		assert: foodMenu maximumSaleQuantity equals: 200

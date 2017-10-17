@@ -1,11 +1,6 @@
 {
 	"instance" : {
-		"testExtractMoneyFailedBecauseOfInsuficientMoney" : "Alvaro 8/29/2017 17:54",
-		"testCustomerWithInvalidTaxpayerID" : "isosa 8/22/2017 19:18",
-		"testDepositMoney" : "Alvaro 8/29/2017 17:52",
-		"testCustomerWithInvalidEmailAddress" : "Alvaro 9/12/2017 21:43",
-		"testAccessing" : "Alvaro 8/29/2017 17:48",
-		"testExtractMoney" : "Alvaro 8/29/2017 17:55"
+		"testAccessing" : "Alvaro 10/17/2017 12:26"
 	},
 	"class" : { }
 }

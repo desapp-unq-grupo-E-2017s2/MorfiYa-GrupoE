@@ -1,35 +1,24 @@
 {
 	"instance" : {
-		"menuName" : "NahuelBenitez 9/3/2017 00:29",
-		"minimumQuantity" : "NahuelBenitez 9/4/2017 21:53",
-		"minimumQuantityPrice2" : "NahuelBenitez 9/4/2017 21:54",
-		"description" : "NahuelBenitez 9/3/2017 00:30",
-		"minimumQuantity2" : "NahuelBenitez 9/4/2017 21:54",
 		"price" : "NahuelBenitez 9/4/2017 21:53",
-		"minimumQuantityPrice" : "NahuelBenitez 9/4/2017 21:54",
-		"synchronizeWith:" : "NahuelBenitez 10/15/2017 16:25",
-		"id" : "NahuelBenitez 10/15/2017 15:48",
+		"synchronizeWith:" : "Alvaro 10/17/2017 12:21",
+		"description" : "NahuelBenitez 9/3/2017 00:30",
+		"name" : "isosa 10/16/2017 13:14",
 		"validDatePeriod" : "NahuelBenitez 9/3/2017 00:32",
+		"=" : "Alvaro 10/17/2017 12:20",
+		"id" : "Alvaro 10/17/2017 11:27",
+		"initializeName:description:validDatePeriod:deliveryTimePeriod:deliveryTimeAverage:price:maximumSaleQuantity:" : "Alvaro 10/17/2017 12:19",
 		"maximumSaleQuantity" : "NahuelBenitez 9/4/2017 21:54",
-		"categories" : "Alvaro 9/12/2017 21:45",
 		"deliveryValue" : "NahuelBenitez 9/3/2017 00:32",
-		"initializeName:description:categories:deliveryValue:validDatePeriod:deliveryTimePeriod:deliveryTimeAverage:price:minimumQuantity:minimumQuantityPrice:minimumQuantity2:minimumQuantityPrice2:maximumSaleQuantity:" : "NahuelBenitez 9/5/2017 19:49",
 		"deliveryTimeAverage" : "NahuelBenitez 9/3/2017 00:39",
-		"deliveryTimePeriod" : "NahuelBenitez 9/3/2017 00:33"
+		"deliveryTimePeriod" : "Alvaro 10/17/2017 12:21"
 	},
 	"class" : {
-		"assertsOverDeliveryTimeAverage:" : "NahuelBenitez 9/5/2017 15:26",
-		"assertOverPrice:withMinimumQuantityPrice:andMinimumQuantityPrice2:" : "NahuelBenitez 9/5/2017 18:55",
-		"assertsOverMaximumSaleQuantity:" : "NahuelBenitez 9/5/2017 16:53",
-		"assertsOverDescription:" : "NahuelBenitez 9/4/2017 23:24",
 		"assertsOverName:" : "NahuelBenitez 9/4/2017 22:17",
-		"assertsOverMinimumQuantity:" : "NahuelBenitez 9/5/2017 15:33",
+		"assertsOverDeliveryTimeAverage:" : "NahuelBenitez 9/5/2017 15:26",
+		"assertsOverMaximumSaleQuantity:" : "NahuelBenitez 9/5/2017 16:53",
+		"named:description:validDatePeriod:deliveryTimePeriod:deliveryTimeAverage:price:maximumSaleQuantity:" : "isosa 10/16/2017 14:15",
 		"assertsOverValidDatePeriod:" : "NahuelBenitez 9/5/2017 14:49",
-		"assertsOverDeliveryValue:" : "NahuelBenitez 9/5/2017 14:38",
-		"assertsOverMinimumQuantityPrice:" : "NahuelBenitez 9/5/2017 15:59",
-		"assertsOverCategory:" : "NahuelBenitez 9/5/2017 15:26",
-		"assertsOverMinimumQuantity2:" : "NahuelBenitez 9/5/2017 16:08",
-		"assertsOverMinimumQuantityPrice2:" : "NahuelBenitez 9/5/2017 16:34",
-		"named:description:categories:deliveryValue:validDatePeriod:deliveryTimePeriod:deliveryTimeAverage:price:minimumQuantity:minimumQuantityPrice:minimumQuantity2:minimumQuantityPrice2:maximumSaleQuantity:" : "NahuelBenitez 9/5/2017 19:48"
+		"assertsIsValidDescription:" : "isosa 10/16/2017 14:15"
 	}
 }

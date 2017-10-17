@@ -1,29 +1,14 @@
 {
 	"instance" : {
-		"testInstanceCreationFailedBecauseMinimumQuantityPrice2IsLow" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseMinimumQuantityIsLow" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseDescriptionIsLong" : "NahuelBenitez 9/5/2017 19:57",
-		"testInstanceCreationFailedBecauseNameIsShort" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseMaximumSalesQuantityIsNil" : "NahuelBenitez 9/5/2017 20:03",
+		"testInstanceCreationFailedBecauseValidDatePeriodIsNil" : "Alvaro 10/17/2017 11:55",
+		"testInstanceCreationFailedBecauseDeliveryTimeAverageIsNil" : "Alvaro 10/17/2017 11:51",
 		"setUp" : "NahuelBenitez 9/5/2017 19:55",
-		"testInstanceCreationFailedBecauseNameIsLong" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseCategoryIsEmpty" : "NahuelBenitez 9/5/2017 19:56",
-		"testInstanceCreationFailedBecauseMinimumQuantityPriceIsHigh" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseMinimumQuantityPrice2IsHigherThanMinimumQuantityPrice" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseDeliveryValueIsHigh" : "NahuelBenitez 9/5/2017 19:57",
-		"testAccesing" : "NahuelBenitez 9/5/2017 19:56",
-		"testInstanceCreationFailedBecauseMinimumQuantity2IsLow" : "NahuelBenitez 9/5/2017 19:58",
-		"testInstanceCreationFailedBecauseDescriptionIsShort" : "NahuelBenitez 9/5/2017 19:58",
-		"testInstanceCreationFailedBecauseValidDatePeriodIsNil" : "NahuelBenitez 9/5/2017 20:00",
-		"testInstanceCreationFailedBecauseMinimumQuantityPrice2IsHigh" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseDeliveryTimeAverageIsNil" : "NahuelBenitez 9/5/2017 19:56",
-		"testInstanceCreationFailedBecauseMinimumQuantityPriceIsNil" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseMinimumQuantityIsHigh" : "NahuelBenitez 9/5/2017 19:58",
-		"testInstanceCreationFailedBecauseMinimumQuantityPriceIsHigherThanPrice" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseMinimumQuantityIsNil" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseMinimumQuantity2IsHigh" : "NahuelBenitez 9/5/2017 19:58",
-		"testInstanceCreationFailedBecauseMinimumQuantityPriceIsLow" : "NahuelBenitez 9/5/2017 19:59",
-		"testInstanceCreationFailedBecauseDeliveryValueIsLow" : "NahuelBenitez 9/5/2017 19:57"
+		"testInstanceCreationFailedBecauseMaximumSalesQuantityIsNil" : "Alvaro 10/17/2017 11:53",
+		"testInstanceCreationFailedBecauseNameIsLong" : "Alvaro 10/17/2017 11:53",
+		"testInstanceCreationFailedBecauseDescriptionIsShort" : "Alvaro 10/17/2017 11:52",
+		"testInstanceCreationFailedBecauseNameIsShort" : "Alvaro 10/17/2017 11:54",
+		"testAccesing" : "Alvaro 10/17/2017 11:51",
+		"testInstanceCreationFailedBecauseDescriptionIsLong" : "Alvaro 10/17/2017 11:52"
 	},
 	"class" : { }
 }

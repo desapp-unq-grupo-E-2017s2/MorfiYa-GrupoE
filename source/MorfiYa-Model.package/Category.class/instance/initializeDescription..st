@@ -1,4 +1,3 @@
 initialization
 initializeDescription: aDescription
-
-	description := aDescription.
+	description := aDescription

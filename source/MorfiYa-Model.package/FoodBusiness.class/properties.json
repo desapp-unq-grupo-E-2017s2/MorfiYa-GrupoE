@@ -6,18 +6,20 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"id",
 		"name",
 		"logo",
 		"location",
 		"address",
 		"mapLocation",
 		"description",
-		"website",
 		"email",
-		"phone",
 		"serviceTime",
 		"deliveryLocation",
-		"scores"
+		"scores",
+		"webSite",
+		"phoneNumber",
+		"contactInformation"
 	],
 	"name" : "FoodBusiness",
 	"type" : "normal"

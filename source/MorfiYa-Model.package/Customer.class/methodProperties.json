@@ -1,22 +1,17 @@
 {
 	"instance" : {
-		"synchronizeWith:" : "isosa 9/12/2017 17:59",
-		"extractMoney:" : "Alvaro 8/29/2017 17:56",
-		"telephone" : "isosa 8/22/2017 18:22",
+		"initializeNamed:with:" : "Alvaro 10/17/2017 12:25",
+		"synchronizeWith:" : "Alvaro 10/17/2017 12:27",
+		"telephone" : "isosa 10/16/2017 16:11",
 		"name" : "isosa 8/22/2017 18:20",
-		"email" : "isosa 8/22/2017 18:22",
-		"money" : "Alvaro 8/29/2017 17:49",
+		"email" : "Alvaro 10/17/2017 10:24",
 		"id" : "Alvaro 9/19/2017 20:11",
-		"location" : "isosa 8/22/2017 18:23",
-		"initialize" : "Alvaro 8/29/2017 17:31",
+		"location" : "isosa 10/16/2017 16:10",
 		"identifier" : "isosa 8/22/2017 18:21",
-		"assertCanExtract:" : "Alvaro 8/29/2017 17:57",
-		"initializeNamed:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 18:19",
-		"depositMoney:" : "Alvaro 8/29/2017 17:51"
+		"contactInformation" : "Alvaro 10/17/2017 12:27",
+		"address" : "isosa 10/16/2017 16:38"
 	},
 	"class" : {
-		"named:identifiedBy:with:and:locatedIn:" : "isosa 8/22/2017 19:12",
-		"assertValidTaxpayerKey:" : "isosa 8/22/2017 19:17",
-		"glorpSetupDescriptor:forSystem:" : "Alvaro 9/3/2017 20:31"
+		"named:with:" : "Alvaro 10/17/2017 12:25"
 	}
 }

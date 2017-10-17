@@ -1,0 +1,4 @@
+Accessing
+phoneNumber
+
+	^ phoneNumber

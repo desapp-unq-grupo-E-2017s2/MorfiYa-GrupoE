@@ -1,3 +1,4 @@
 Accessing
 location
-	^ location
+
+	^contactInformation locality

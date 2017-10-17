@@ -1,4 +1,4 @@
-instance-creation
+Validating
 assertsOverName: aName
 	aName size < 4
 		ifTrue: [ InstanceCreationFailed signal: 'El nombre debe tener al menos 4 caracteres' ].

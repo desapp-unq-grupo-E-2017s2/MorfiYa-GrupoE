@@ -1,4 +1,3 @@
 Initialization
 initialize
-
-money := 0.
+menues := OrderedCollection new.

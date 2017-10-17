@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testAccessing" : "Alvaro 10/16/2017 18:13",
+		"testAddNonWorkingDay" : "Alvaro 10/16/2017 18:13",
+		"testAddNonWorkingDayFromADateToADate" : "Alvaro 10/16/2017 18:13",
+		"testRemoveNonWOrkingDay" : "Alvaro 10/16/2017 18:13"
+	},
+	"class" : { }
+}

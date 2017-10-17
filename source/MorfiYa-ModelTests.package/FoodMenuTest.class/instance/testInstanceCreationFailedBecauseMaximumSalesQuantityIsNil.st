@@ -1,19 +1,21 @@
 tests
 testInstanceCreationFailedBecauseMaximumSalesQuantityIsNil
+	| workingHoursTime |
+	workingHoursTime := OrderedCollection new
+		add: (WorkingHoursTime on: Monday from: 8 to: 20);
+		add: (WorkingHoursTime on: Tuesday from: 8 to: 20);
+		add: (WorkingHoursTime on: Wednesday from: 8 to: 20);
+		add: (WorkingHoursTime on: Thursday from: 8 to: 20);
+		add: (WorkingHoursTime on: Friday from: 8 to: 20);
+		yourself.
 	self
-		should: [  FoodMenu
+		should: [ FoodMenu
 				named: 'McCombo'
 				description: 'Burguer + fries and coke'
-				categories: categories
-				deliveryValue: 10
-				validDatePeriod: {((Monday to: Friday) -> (8 to: 20))} asDictionary
-				deliveryTimePeriod: {((Monday to: Friday) -> (8 to: 20))} asDictionary
+				validDatePeriod: workingHoursTime
+				deliveryTimePeriod: (8 to: 20)
 				deliveryTimeAverage: 60
 				price: 30
-				minimumQuantity: 10
-				minimumQuantityPrice: 0
-				minimumQuantity2: 71
-				minimumQuantityPrice2: 1000
 				maximumSaleQuantity: nil ]
 		raise: InstanceCreationFailed
 		withExceptionDo: [ :exception | 

@@ -1,26 +1,29 @@
 {
 	"instance" : {
-		"description" : "Anonymous 8/21/2017 22:07",
-		"extractMoney:" : "Alvaro 8/29/2017 17:33",
-		"email" : "NahuelBenitez 10/15/2017 16:34",
-		"mapLocation" : "Anonymous 8/21/2017 22:07",
-		"money" : "Alvaro 8/29/2017 17:38",
-		"initializeNamed:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "isosa 8/29/2017 18:28",
-		"initialize" : "Alvaro 8/29/2017 17:30",
-		"businessName" : "Anonymous 8/21/2017 22:06",
-		"assertCanExtract:" : "Alvaro 8/29/2017 17:37",
-		"address" : "Anonymous 8/21/2017 22:06",
-		"deliveryLocation" : "Anonymous 8/21/2017 22:09",
-		"location" : "Anonymous 8/21/2017 22:06",
-		"logo" : "Anonymous 8/21/2017 22:06",
-		"phone" : "Anonymous 8/21/2017 22:08",
 		"serviceTime" : "Anonymous 8/21/2017 22:09",
-		"webSite" : "Anonymous 8/21/2017 22:07",
-		"depositMoney:" : "Alvaro 8/29/2017 17:32"
+		"removeMenu:" : "Alvaro 10/16/2017 19:13",
+		"initialize" : "Alvaro 10/16/2017 19:12",
+		"logo" : "Anonymous 8/21/2017 22:06",
+		"initializeNamed:withLogo:mapLocation:described:webSite:serviceTime:deliveryLocation:with:" : "isosa 10/16/2017 17:12",
+		"mapLocation" : "Anonymous 8/21/2017 22:07",
+		"hasMenu:" : "Alvaro 10/16/2017 19:56",
+		"businessName" : "Anonymous 8/21/2017 22:06",
+		"location" : "isosa 10/16/2017 17:15",
+		"updateMenu:with:" : "Alvaro 10/16/2017 19:17",
+		"synchronizeWith:" : "isosa 10/10/2017 15:49",
+		"description" : "Anonymous 8/21/2017 22:07",
+		"addMenu:" : "Alvaro 10/16/2017 19:13",
+		"id:" : "isosa 10/10/2017 16:58",
+		"email" : "isosa 10/16/2017 17:14",
+		"id" : "isosa 10/10/2017 16:58",
+		"webSite" : "isosa 10/10/2017 15:48",
+		"phone" : "isosa 10/16/2017 17:16",
+		"deliveryLocation" : "Anonymous 8/21/2017 22:09",
+		"address" : "isosa 10/16/2017 17:13"
 	},
 	"class" : {
-		"assertsOverDescription:" : "Alvaro 8/22/2017 18:42",
-		"assertsOverPhoneNumber:" : "Alvaro 8/22/2017 19:35",
-		"named:withLogo:locationAt:address:mapLocation:described:webSite:email:phone:serviceTime:deliveryLocation:" : "Alvaro 8/22/2017 19:32"
+		"named:withLogo:mapLocation:described:webSite:serviceTime:deliveryLocation:with:" : "isosa 10/16/2017 17:13",
+		"assertsIsValidDescription:" : "isosa 10/16/2017 14:15",
+		"glorpSetupDescriptor:forSystem:" : "isosa 10/10/2017 16:59"
 	}
 }
