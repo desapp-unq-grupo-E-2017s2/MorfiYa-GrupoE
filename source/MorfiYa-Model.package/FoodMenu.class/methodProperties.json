@@ -1,14 +1,16 @@
 {
 	"instance" : {
-		"description" : "NahuelBenitez 9/3/2017 00:30",
-		"maximumSaleQuantity" : "NahuelBenitez 9/4/2017 21:54",
-		"deliveryTimePeriod" : "NahuelBenitez 9/3/2017 00:33",
-		"name" : "isosa 10/16/2017 13:14",
 		"price" : "NahuelBenitez 9/4/2017 21:53",
+		"synchronizeWith:" : "Alvaro 10/16/2017 19:24",
+		"description" : "NahuelBenitez 9/3/2017 00:30",
+		"name" : "isosa 10/16/2017 13:14",
 		"validDatePeriod" : "NahuelBenitez 9/3/2017 00:32",
+		"=" : "Alvaro 10/16/2017 19:53",
 		"initializeName:description:validDatePeriod:deliveryTimePeriod:deliveryTimeAverage:price:maximumSaleQuantity:" : "isosa 10/16/2017 12:59",
+		"maximumSaleQuantity" : "NahuelBenitez 9/4/2017 21:54",
+		"deliveryValue" : "NahuelBenitez 9/3/2017 00:32",
 		"deliveryTimeAverage" : "NahuelBenitez 9/3/2017 00:39",
-		"deliveryValue" : "NahuelBenitez 9/3/2017 00:32"
+		"deliveryTimePeriod" : "NahuelBenitez 9/3/2017 00:33"
 	},
 	"class" : {
 		"assertsIsValidDescription:" : "isosa 10/16/2017 14:15",

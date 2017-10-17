@@ -1,16 +1,15 @@
 tests
 testAccessing
-
 	| customer contactInfo |
-	
 	contactInfo := ContactInformation
 		adressedWith: 'Calle falsa 123'
 		locatedIn: 'Springfield'
 		withEmail: 'hernan.coronel@yahoo.com'
 		andPhoneNumber: '42523060'.
-		
-	customer := Customer named: 'Hernan Coronel' identifiedBy: '27388419348' with: contactInfo.
-	
+	customer := Customer
+		named: 'Hernan Coronel'
+		identifiedBy: '27388419348'
+		with: contactInfo.
 	self
 		assert: customer name equals: 'Hernan Coronel';
 		assert: customer identifier equals: '27388419348';
