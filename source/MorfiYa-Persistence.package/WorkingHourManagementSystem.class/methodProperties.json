@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"creationDescriptorBlock" : "isosa 10/17/2017 15:35",
+		"creationTableBlock" : "isosa 10/17/2017 15:44",
+		"configuration" : "isosa 10/17/2017 15:45",
+		"externalTableNamed:" : "isosa 10/17/2017 15:45",
+		"describedClass" : "isosa 10/17/2017 15:45",
+		"table" : "isosa 10/17/2017 15:45",
+		"initializeUsing:" : "isosa 10/17/2017 15:11",
+		"removeWorkingHour:" : "isosa 10/17/2017 15:48",
+		"addWorkingHour:" : "isosa 10/17/2017 15:47",
+		"platform" : "isosa 10/17/2017 15:45",
+		"updateWorkingHour:with:" : "isosa 10/17/2017 15:55",
+		"creationModelBlock" : "isosa 10/17/2017 15:36",
+		"tableName" : "isosa 10/17/2017 16:06",
+		"weekDayMappingFor:" : "isosa 10/17/2017 15:28"
+	},
+	"class" : {
+		"using:" : "isosa 10/17/2017 15:11"
+	}
+}

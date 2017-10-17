@@ -6,10 +6,11 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
+		"id",
 		"address",
-		"location",
 		"email",
-		"phoneNumber"
+		"phoneNumber",
+		"locality"
 	],
 	"name" : "ContactInformation",
 	"type" : "normal"

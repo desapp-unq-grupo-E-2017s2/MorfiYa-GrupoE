@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"quantity",
+		"deliveryType",
+		"deliveryDate",
+		"deliveryTime",
+		"customer",
+		"menus"
+	],
+	"name" : "Purchase",
+	"type" : "normal"
+}

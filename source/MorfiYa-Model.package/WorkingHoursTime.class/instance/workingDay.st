@@ -1,4 +1,4 @@
 Accessing
 workingDay
 
-	^ workingDay
+	^workingDay

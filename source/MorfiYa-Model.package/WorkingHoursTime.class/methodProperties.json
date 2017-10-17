@@ -1,10 +1,12 @@
 {
 	"instance" : {
+		"synchronizeWith:" : "isosa 10/17/2017 15:59",
 		"openingTime" : "isosa 10/3/2017 16:29",
 		"openingHours" : "isosa 10/3/2017 16:33",
-		"workingDay" : "isosa 10/3/2017 16:28",
+		"workingDay" : "isosa 10/17/2017 15:34",
+		"id" : "isosa 10/17/2017 16:30",
 		"closingTime" : "isosa 10/3/2017 16:29",
-		"initializeOn:from:to:" : "isosa 10/3/2017 16:28"
+		"initializeOn:from:to:" : "isosa 10/17/2017 12:35"
 	},
 	"class" : {
 		"assertValidOpeningHoursFor:and:" : "isosa 10/3/2017 16:39",

@@ -1,16 +1,19 @@
 {
 	"instance" : {
-		"location" : "isosa 10/16/2017 16:10",
-		"name" : "isosa 8/22/2017 18:20",
-		"email" : "Alvaro 10/17/2017 10:24",
-		"synchronizeWith:" : "Alvaro 10/16/2017 18:12",
+		"initializeNamed:with:" : "Alvaro 10/17/2017 12:25",
+		"synchronizeWith:" : "Alvaro 10/17/2017 12:27",
 		"telephone" : "isosa 10/16/2017 16:11",
-		"address" : "isosa 10/16/2017 16:38",
+		"name" : "isosa 8/22/2017 18:20",
+		"initializeNamed:identifiedBy:with:" : "isosa 10/16/2017 16:10",
+		"email" : "Alvaro 10/17/2017 10:24",
 		"id" : "Alvaro 9/19/2017 20:11",
+		"location" : "isosa 10/16/2017 16:10",
 		"identifier" : "isosa 8/22/2017 18:21",
-		"initializeNamed:identifiedBy:with:" : "isosa 10/16/2017 16:10"
+		"contactInformation" : "Alvaro 10/17/2017 12:27",
+		"address" : "isosa 10/16/2017 16:38"
 	},
 	"class" : {
-		"named:identifiedBy:with:" : "isosa 10/16/2017 19:43"
+		"named:identifiedBy:with:" : "isosa 10/16/2017 19:43",
+		"named:with:" : "Alvaro 10/17/2017 12:25"
 	}
 }

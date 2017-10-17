@@ -2,6 +2,6 @@ Initialization
 initializeAdressedWith: anAddress locatedIn: aLocation withEmail: anEmailAddress andPhoneNumber: aPhoneNumber
 
 	address := anAddress.
-	location := aLocation.
+	locality := aLocation.
 	email := anEmailAddress.
 	phoneNumber := aPhoneNumber

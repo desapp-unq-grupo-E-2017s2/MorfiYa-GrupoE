@@ -1,4 +1,4 @@
 Accessing
 locality
 
-	  ^location 
+	  ^locality  

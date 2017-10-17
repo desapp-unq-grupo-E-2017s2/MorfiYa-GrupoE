@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"deliveryType" : "isosa 10/17/2017 10:37",
+		"estimatedTimeForDelivery" : "isosa 10/17/2017 10:37",
+		"deliveryTime" : "isosa 10/17/2017 10:37",
+		"deliveryDate" : "isosa 10/17/2017 10:37",
+		"quantity" : "isosa 10/17/2017 10:37",
+		"initializeMenus:deliveryType:deliveryDate:deliverTime:customer:" : "NahuelBenitez 10/10/2017 21:03",
+		"menus" : "isosa 10/17/2017 10:37",
+		"customer" : "isosa 10/17/2017 10:37"
+	},
+	"class" : {
+		"menus:deliveryType:deliveryDate:deliveryTime:customer:" : "isosa 10/17/2017 10:36",
+		"assertIsValidDeliveryDate:" : "isosa 10/17/2017 10:35",
+		"assertNotEmptyPurchase:" : "isosa 10/17/2017 10:36"
+	}
+}

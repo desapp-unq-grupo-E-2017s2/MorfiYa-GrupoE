@@ -1,0 +1,4 @@
+Accessing
+describedClass
+
+	^WorkingHoursTime

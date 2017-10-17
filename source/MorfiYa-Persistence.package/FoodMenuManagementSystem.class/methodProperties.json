@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"foodMenuCount" : "NahuelBenitez 10/15/2017 14:06",
+		"creationDescriptorBlock" : "Alvaro 10/17/2017 12:11",
+		"creationTableBlock" : "isosa 10/17/2017 16:06",
+		"configuration" : "NahuelBenitez 10/15/2017 01:52",
+		"addFoodMenu:" : "NahuelBenitez 10/15/2017 14:01",
+		"externalTableNamed:" : "Alvaro 10/17/2017 12:17",
+		"describedClass" : "NahuelBenitez 10/15/2017 01:53",
+		"removeFoodMenu:" : "NahuelBenitez 10/15/2017 14:17",
+		"initializeUsing:" : "NahuelBenitez 10/15/2017 02:30",
+		"table" : "NahuelBenitez 10/15/2017 02:29",
+		"platform" : "NahuelBenitez 10/15/2017 01:53",
+		"updateFoodMenu:with:" : "isosa 10/17/2017 15:04",
+		"creationModelBlock" : "Alvaro 10/17/2017 12:06",
+		"tableName" : "NahuelBenitez 10/15/2017 02:29",
+		"allFoodMenus" : "NahuelBenitez 10/15/2017 14:14"
+	},
+	"class" : {
+		"using:" : "NahuelBenitez 10/15/2017 14:05"
+	}
+}

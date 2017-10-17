@@ -1,6 +1,8 @@
 utils
 allCategories
+
 	| categories |
+	
 	categories := OrderedCollection new.
 	categories
 		add: self beer;
