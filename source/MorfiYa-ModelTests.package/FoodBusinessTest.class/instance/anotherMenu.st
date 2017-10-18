@@ -2,11 +2,11 @@ Test Support
 anotherMenu
 	| workingHoursTime |
 	workingHoursTime := OrderedCollection new
-		add: (WorkingHoursTime on: Monday from: 8 to: 20);
-		add: (WorkingHoursTime on: Tuesday from: 8 to: 20);
-		add: (WorkingHoursTime on: Wednesday from: 8 to: 20);
-		add: (WorkingHoursTime on: Thursday from: 8 to: 20);
-		add: (WorkingHoursTime on: Friday from: 8 to: 20);
+		add: (WorkingHoursTime on: (WeekDay monday) from: 8 to: 20);
+		add: (WorkingHoursTime on: (WeekDay tuesday) from: 8 to: 20);
+		add: (WorkingHoursTime on: (WeekDay wednesday) from: 8 to: 20);
+		add: (WorkingHoursTime on: (WeekDay thursday) from: 8 to: 20);
+		add: (WorkingHoursTime on: (WeekDay friday) from: 8 to: 20);
 		yourself.
 	^ FoodMenu
 		named: 'McCombo2'

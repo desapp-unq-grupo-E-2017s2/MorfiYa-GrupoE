@@ -6,7 +6,7 @@ testAccessing
 	
 	business := NullBusiness new.
 	self
-		assert: business name equals: 'Null business';
+		assert: business businessName equals: 'Null business';
 		assert: business logo equals: 'Null logo';
 		assert: business location equals: 'Null location';
 		assert: business address equals: 'Null adress';

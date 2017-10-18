@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Service",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"server",
+		"userManagementSystem"
+	],
+	"name" : "UserController",
+	"type" : "normal"
+}

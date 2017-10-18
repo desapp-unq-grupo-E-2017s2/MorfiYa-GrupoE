@@ -15,8 +15,11 @@
 		"hasBusiness" : "Alvaro 10/17/2017 13:11"
 	},
 	"class" : {
+		"fromJson:" : "isosa 10/17/2017 22:28",
+		"neoJsonMapping:" : "isosa 10/17/2017 22:39",
 		"identifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
-		"identifiedBy:named:and:describedAs:" : "Alvaro 10/17/2017 13:13",
-		"validateTaxPayierIdentifier:" : "Alvaro 10/16/2017 18:12"
+		"contactInformationFrom:" : "isosa 10/17/2017 22:27",
+		"validateTaxPayierIdentifier:" : "Alvaro 10/16/2017 18:12",
+		"identifiedBy:named:and:describedAs:" : "Alvaro 10/17/2017 13:13"
 	}
 }

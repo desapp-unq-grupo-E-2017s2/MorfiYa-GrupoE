@@ -1,5 +1,13 @@
-Tests
+tests
 testInstanceCreationFailedBecauseDescriptionIsShort
+
+	| contactInfo |
+	
+	contactInfo := ContactInformation
+		adressedWith: 'Calle falsa 123'
+		locatedIn: 'Springfield'
+		withEmail: 'hernan.coronel@yahoo.com'
+		andPhoneNumber: '42523060'.
 
 	self
 		should: [ FoodBusiness
@@ -9,7 +17,8 @@ testInstanceCreationFailedBecauseDescriptionIsShort
 				described: 'aasdas'
 				webSite: 'www.facebook.com/pipi1'
 				serviceTime: {((Monday to: Friday) -> (8 to: 20))} asDictionary
-				deliveryLocation: 'direccion2']
+				deliveryLocation: 'direccion2'
+				with: contactInfo ]
 		raise: InstanceCreationFailed
 		withExceptionDo: [ :exception | 
 			self

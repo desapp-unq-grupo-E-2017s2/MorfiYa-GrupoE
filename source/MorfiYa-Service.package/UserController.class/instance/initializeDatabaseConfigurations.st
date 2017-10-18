@@ -1,0 +1,5 @@
+initialization
+initializeDatabaseConfigurations
+
+	userManagementSystem := UsersManagementSystem using: GeneralPersistenceSystem current.
+	GeneralPersistenceSystem current dropAllThenCreateSchema 

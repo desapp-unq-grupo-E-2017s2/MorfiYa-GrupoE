@@ -1,6 +1,13 @@
-Tests
+tests
 testAccessing
-	| business |
+	| business contactInfo |
+	
+	contactInfo := ContactInformation
+		adressedWith: 'Calle falsa 123'
+		locatedIn: 'Springfield'
+		withEmail: 'hernan.coronel@yahoo.com'
+		andPhoneNumber: '42523060'.
+	
 	business := FoodBusiness
 		named: 'McDonalds'
 		withLogo: 'logo1'
@@ -9,9 +16,10 @@ testAccessing
 			'aasdasdasadsadas daadsdasadsads asdsadsdasadsadsdssdasdasdadsadsadsadsadsasdsdds'
 		webSite: 'www.facebook.com/pipi1'
 		serviceTime: {((Monday to: Friday) -> (8 to: 20))} asDictionary
-		deliveryLocation: 'direccion2'.
+		deliveryLocation: 'direccion2'
+		with: contactInfo.
 	self
-		assert: business name equals: 'McDonalds';
+		assert: business businessName equals: 'McDonalds';
 		assert: business logo equals: 'logo1';
 		assert: business location equals: 'Springfield';
 		assert: business address equals: 'Calle falsa 123';
