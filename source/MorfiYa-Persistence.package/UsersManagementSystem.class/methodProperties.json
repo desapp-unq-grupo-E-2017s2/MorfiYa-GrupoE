@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"creationDescriptorBlock" : "Alvaro 10/17/2017 13:06",
+		"creationTableBlock" : "Alvaro 10/17/2017 14:51",
+		"updateUser:with:" : "Alvaro 10/17/2017 13:20",
+		"configuration" : "Alvaro 10/4/2017 21:16",
+		"allUsers" : "Alvaro 10/17/2017 13:18",
+		"describedClass" : "Alvaro 10/17/2017 12:52",
+		"initializeUsing:" : "Alvaro 10/3/2017 20:49",
+		"removeUser:" : "Alvaro 10/17/2017 13:19",
+		"table" : "Alvaro 10/4/2017 20:50",
+		"usersCount" : "Alvaro 10/17/2017 13:18",
+		"platform" : "Alvaro 10/4/2017 20:53",
+		"creationModelBlock" : "Alvaro 10/17/2017 12:57",
+		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 14:51",
+		"tableName" : "Alvaro 10/17/2017 17:39",
+		"addUser:" : "Alvaro 10/17/2017 13:19"
+	},
+	"class" : {
+		"using:" : "Alvaro 10/3/2017 20:48"
+	}
+}

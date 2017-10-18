@@ -1,4 +1,4 @@
 accessing
 tableName
 
-	^ self describedClass name asString asLowercase
+	^ 'CONTACT_INFORMATION'

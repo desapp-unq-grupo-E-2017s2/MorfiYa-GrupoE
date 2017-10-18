@@ -1,9 +1,9 @@
 Accessing
 priceFor: aQuantity
 	| price |
-	(minoristRange rangeIncludes: aQuantity)
+	(self minoristRange rangeIncludes: aQuantity)
 		ifTrue: [ price := aQuantity * minoristPrice ].
-	(mayoristRange rangeIncludes: aQuantity)
+	(self mayoristRange rangeIncludes: aQuantity)
 		ifTrue: [ price := aQuantity * mayoristPrice ].
 	price
 		ifNil: [ NoPriceFound

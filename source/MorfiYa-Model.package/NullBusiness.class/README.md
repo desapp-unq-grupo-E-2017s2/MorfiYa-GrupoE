@@ -1,0 +1,1 @@
+Representation of the ausence of a FoodBusiness

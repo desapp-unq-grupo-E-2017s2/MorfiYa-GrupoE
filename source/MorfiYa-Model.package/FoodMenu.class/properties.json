@@ -9,7 +9,6 @@
 		"id",
 		"name",
 		"description",
-		"deliveryValue",
 		"validDatePeriod",
 		"deliveryTimeStart",
 		"deliveryTimeEnd",

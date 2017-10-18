@@ -1,4 +1,3 @@
-constants
+Accessing
 sushi
-
-	^self new initializeDescription: 'Sushi'
+	^ self contents at: 'sushi'

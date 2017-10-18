@@ -1,4 +1,4 @@
 Accessing
 tableName
 
-	^#WORKING_HOUR
+	^'WORKING_HOUR'

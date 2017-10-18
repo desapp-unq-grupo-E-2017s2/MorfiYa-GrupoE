@@ -1,6 +1,8 @@
 Initialization
 initializeOfMinoristRange: aRange forMinoristPrice: aPrice andMayoristRange: anotherRange forMayororistPrice: anotherPrice
-	minoristRange := aRange.
+	minoristRangeStart := aRange min.
+	minoristRangeEnd := aRange max.
 	minoristPrice := aPrice.
-	mayoristRange := anotherRange.
+	mayoristRangeStart := anotherRange min.
+	mayoristRangeEnd := anotherRange max.
 	mayoristPrice := anotherPrice

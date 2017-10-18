@@ -1,18 +1,22 @@
 {
 	"instance" : {
 		"lastName" : "Alvaro 10/16/2017 17:21",
+		"synchronizeWith:" : "Alvaro 10/17/2017 12:47",
 		"deposit:" : "Alvaro 10/16/2017 17:54",
 		"name" : "Alvaro 10/16/2017 17:21",
+		"id" : "Alvaro 10/17/2017 12:55",
 		"money" : "Alvaro 10/16/2017 17:44",
 		"initialize" : "Alvaro 10/16/2017 17:44",
+		"contactInformation" : "Alvaro 10/17/2017 12:48",
+		"initializeIdentifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
 		"validateExtractionOf:" : "Alvaro 10/16/2017 17:59",
-		"initializeIdentifiedBy:named:and:describedAs:" : "Alvaro 10/16/2017 17:44",
-		"clientInfo" : "Alvaro 10/16/2017 17:22",
+		"extract:" : "Alvaro 10/16/2017 17:59",
 		"cuit" : "Alvaro 10/16/2017 17:20",
-		"extract:" : "Alvaro 10/16/2017 17:59"
+		"hasBusiness" : "Alvaro 10/17/2017 13:11"
 	},
 	"class" : {
-		"validateTaxPayierIdentifier:" : "Alvaro 10/16/2017 18:12",
-		"identifiedBy:named:and:describedAs:" : "Alvaro 10/16/2017 18:09"
+		"identifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
+		"identifiedBy:named:and:describedAs:" : "Alvaro 10/17/2017 13:13",
+		"validateTaxPayierIdentifier:" : "Alvaro 10/16/2017 18:12"
 	}
 }

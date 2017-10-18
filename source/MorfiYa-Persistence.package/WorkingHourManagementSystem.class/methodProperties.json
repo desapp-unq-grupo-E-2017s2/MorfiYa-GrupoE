@@ -1,19 +1,22 @@
 {
 	"instance" : {
-		"creationDescriptorBlock" : "isosa 10/17/2017 15:35",
-		"creationTableBlock" : "isosa 10/17/2017 15:44",
+		"creationDescriptorBlock" : "Alvaro 10/17/2017 18:24",
+		"creationTableBlock" : "Alvaro 10/17/2017 20:15",
 		"configuration" : "isosa 10/17/2017 15:45",
 		"externalTableNamed:" : "isosa 10/17/2017 15:45",
 		"describedClass" : "isosa 10/17/2017 15:45",
-		"table" : "isosa 10/17/2017 15:45",
+		"externalObjectTable" : "Alvaro 10/17/2017 18:44",
 		"initializeUsing:" : "isosa 10/17/2017 15:11",
 		"removeWorkingHour:" : "isosa 10/17/2017 15:48",
+		"table" : "isosa 10/17/2017 15:45",
 		"addWorkingHour:" : "isosa 10/17/2017 15:47",
+		"allWorkingHours" : "Alvaro 10/17/2017 19:45",
 		"platform" : "isosa 10/17/2017 15:45",
 		"updateWorkingHour:with:" : "isosa 10/17/2017 15:55",
-		"creationModelBlock" : "isosa 10/17/2017 15:36",
-		"tableName" : "isosa 10/17/2017 16:06",
-		"weekDayMappingFor:" : "isosa 10/17/2017 15:28"
+		"creationModelBlock" : "Alvaro 10/17/2017 18:44",
+		"tableName" : "Alvaro 10/17/2017 18:17",
+		"weekDayMappingFor:" : "Alvaro 10/17/2017 20:23",
+		"workingHoursCount" : "Alvaro 10/17/2017 19:45"
 	},
 	"class" : {
 		"using:" : "isosa 10/17/2017 15:11"

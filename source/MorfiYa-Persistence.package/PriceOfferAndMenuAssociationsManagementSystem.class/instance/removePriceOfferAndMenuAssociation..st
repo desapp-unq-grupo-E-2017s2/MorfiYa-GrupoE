@@ -1,0 +1,3 @@
+Querying
+removePriceOfferAndMenuAssociation: anAssociation
+	^ generalPersistenceSystem remove: anAssociation

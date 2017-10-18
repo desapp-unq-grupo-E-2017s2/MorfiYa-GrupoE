@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"anotherUser" : "Alvaro 10/17/2017 17:00",
+		"testAddCustomer" : "Alvaro 10/17/2017 17:01",
+		"testRemoveCustomer" : "Alvaro 10/17/2017 17:01",
+		"tearDown" : "Alvaro 9/5/2017 18:25",
+		"setUp" : "Alvaro 10/17/2017 19:21",
+		"testUpdateCustomer" : "Alvaro 10/17/2017 19:24",
+		"user" : "Alvaro 10/17/2017 17:00"
+	},
+	"class" : { }
+}

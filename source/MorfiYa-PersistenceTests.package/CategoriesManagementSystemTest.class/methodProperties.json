@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"tearDown" : "Alvaro 10/17/2017 16:31",
+		"testRemoveCategory" : "Alvaro 10/17/2017 16:44",
+		"setUp" : "Alvaro 10/17/2017 16:31",
+		"testAddCategory" : "Alvaro 10/17/2017 17:37"
+	},
+	"class" : { }
+}

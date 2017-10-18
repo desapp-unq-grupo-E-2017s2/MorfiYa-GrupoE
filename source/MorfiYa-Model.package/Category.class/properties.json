@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "Alvaro 10/17/2017 16:21",
 	"super" : "Object",
 	"category" : "MorfiYa-Model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"Contents"
+	],
 	"instvars" : [
+		"id",
 		"description"
 	],
 	"name" : "Category",

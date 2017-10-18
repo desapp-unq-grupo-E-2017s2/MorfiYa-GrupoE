@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testInstanceCreationFailedBecauseValidDatePeriodIsNil" : "Alvaro 10/17/2017 11:55",
+		"testInstanceCreationFailedBecauseDeliveryTimeAverageIsNil" : "Alvaro 10/17/2017 11:51",
+		"testInstanceCreationFailedBecauseMaximumSalesQuantityIsNil" : "Alvaro 10/17/2017 11:53",
+		"testInstanceCreationFailedBecauseNameIsLong" : "Alvaro 10/17/2017 11:53",
+		"testInstanceCreationFailedBecauseDescriptionIsShort" : "Alvaro 10/17/2017 11:52",
+		"testInstanceCreationFailedBecauseNameIsShort" : "Alvaro 10/17/2017 11:54",
+		"testAccesing" : "Alvaro 10/17/2017 11:51",
+		"testInstanceCreationFailedBecauseDescriptionIsLong" : "Alvaro 10/17/2017 11:52"
+	},
+	"class" : { }
+}

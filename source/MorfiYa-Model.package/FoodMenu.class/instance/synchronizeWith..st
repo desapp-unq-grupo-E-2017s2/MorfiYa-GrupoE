@@ -2,7 +2,6 @@ Updating
 synchronizeWith: anotherMenu
 	name := anotherMenu name.
 	description := anotherMenu description.
-	deliveryValue := anotherMenu deliveryValue.
 	validDatePeriod := anotherMenu validDatePeriod.
 	deliveryTimeStart := anotherMenu deliveryTimePeriod min.
 	deliveryTimeEnd := anotherMenu deliveryTimePeriod max.

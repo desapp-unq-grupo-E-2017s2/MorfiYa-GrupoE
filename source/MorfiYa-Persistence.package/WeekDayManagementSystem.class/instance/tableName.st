@@ -1,4 +1,4 @@
 Accessing
 tableName
 
-	^ self describedClass name asString asLowercase
+	^ 'WEEK_DAY'

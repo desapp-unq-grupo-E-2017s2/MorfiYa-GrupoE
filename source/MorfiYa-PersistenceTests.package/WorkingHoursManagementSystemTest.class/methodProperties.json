@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"anotherWorkingHour" : "Alvaro 10/17/2017 20:00",
+		"testAddWorkingHour" : "Alvaro 10/17/2017 19:56",
+		"workingHour" : "Alvaro 10/17/2017 20:00",
+		"tearDown" : "Alvaro 10/17/2017 19:43",
+		"setUp" : "Alvaro 10/17/2017 20:10",
+		"testUpdateWorkingHour" : "Alvaro 10/17/2017 20:00",
+		"testRemoveWorkingHour" : "Alvaro 10/17/2017 19:56"
+	},
+	"class" : { }
+}

@@ -1,4 +1,4 @@
 validation
-assertIsDayOfTheWeek: aDay 
-
-	(aDay isA: Day) ifFalse: [ InstanceCreationFailed signal: aDay , ' no es un día valido']
+assertIsDayOfTheWeek: aDay
+	(aDay isA: WeekDay)
+		ifFalse: [ InstanceCreationFailed signal: aDay description , ' no es un día valido' ]

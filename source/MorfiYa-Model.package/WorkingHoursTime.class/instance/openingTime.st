@@ -1,4 +1,4 @@
-accessing - computed
+Accessing
 openingTime
 
 	^ openingTime

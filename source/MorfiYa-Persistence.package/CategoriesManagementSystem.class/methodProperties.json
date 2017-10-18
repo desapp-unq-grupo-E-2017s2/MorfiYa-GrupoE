@@ -1,0 +1,21 @@
+{
+	"instance" : {
+		"allCategories" : "Alvaro 10/17/2017 16:40",
+		"creationDescriptorBlock" : "Alvaro 10/17/2017 16:01",
+		"removeCategory:" : "Alvaro 10/17/2017 16:41",
+		"tableName" : "Alvaro 10/17/2017 17:38",
+		"creationTableBlock" : "Alvaro 10/17/2017 16:04",
+		"configuration" : "Alvaro 10/17/2017 16:05",
+		"describedClass" : "Alvaro 10/17/2017 16:05",
+		"table" : "Alvaro 10/17/2017 16:06",
+		"initializeUsing:" : "Alvaro 10/17/2017 16:00",
+		"platform" : "Alvaro 10/17/2017 16:05",
+		"creationModelBlock" : "Alvaro 10/17/2017 16:02",
+		"addCategory:" : "Alvaro 10/17/2017 21:37",
+		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 16:06",
+		"categoriesCount" : "Alvaro 10/17/2017 16:41"
+	},
+	"class" : {
+		"using:" : "Alvaro 10/17/2017 16:07"
+	}
+}

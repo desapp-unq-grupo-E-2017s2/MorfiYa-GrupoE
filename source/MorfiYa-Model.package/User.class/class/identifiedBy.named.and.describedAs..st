@@ -1,8 +1,4 @@
 Instance Creation
-identifiedBy: aCuit named: aName and: aLastName describedAs: aClientInformation
-	self validateTaxPayierIdentifier: aCuit.
-	^ self new
-		initializeIdentifiedBy: aCuit
-		named: aName
-		and: aLastName
-		describedAs: aClientInformation
+identifiedBy: aCuit named: aName and: aLastName describedAs: aContactInformation
+	
+	^ self identifiedBy: aCuit named: aName and: aLastName describedAs: aContactInformation startingBusiness: NullBusiness new

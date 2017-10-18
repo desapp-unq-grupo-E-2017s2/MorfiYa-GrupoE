@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testAccessingNoBusiness" : "Alvaro 10/17/2017 13:14",
+		"foodBusiness" : "Alvaro 10/17/2017 13:15",
+		"contactInformation" : "Alvaro 10/17/2017 12:48",
+		"testDepositAndExtractMoney" : "Alvaro 10/17/2017 12:48",
+		"testAccessing" : "Alvaro 10/17/2017 13:17",
+		"testExtractionFailedBecauseOfInsuficientMoney" : "Alvaro 10/17/2017 12:48",
+		"testInstanceCreationFailedBecauseOfWrongCuit" : "Alvaro 10/17/2017 12:48"
+	},
+	"class" : { }
+}

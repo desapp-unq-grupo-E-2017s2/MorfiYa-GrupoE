@@ -1,4 +1,6 @@
-constants
+Accessing
 turnover
+	^ self contents at: 'turnover'
+	
 
-	^self new initializeDescription: 'Empanada'
+	

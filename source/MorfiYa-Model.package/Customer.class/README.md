@@ -1,1 +1,0 @@
-A class that represents a food menu buyer

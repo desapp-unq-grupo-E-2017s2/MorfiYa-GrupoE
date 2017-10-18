@@ -2,5 +2,5 @@ Accessing
 synchronizeWith: anUpdatedWorkingHour
 
 	workingDay := anUpdatedWorkingHour workingDay.
-	openingTime := anUpdatedWorkingHour openingHours.
+	openingTime := anUpdatedWorkingHour openingTime.
 	closingTime := anUpdatedWorkingHour closingTime

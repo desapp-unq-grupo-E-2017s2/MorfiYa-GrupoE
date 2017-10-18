@@ -1,15 +1,25 @@
 {
 	"instance" : {
+		"description" : "Alvaro 10/17/2017 16:24",
+		"id" : "Alvaro 10/17/2017 17:34",
 		"initializeDescription:" : "isosa 10/17/2017 13:36"
 	},
 	"class" : {
-		"allCategories" : "isosa 10/17/2017 13:32",
-		"turnover" : "NahuelBenitez 9/5/2017 19:12",
-		"burguer" : "NahuelBenitez 9/5/2017 19:10",
-		"vegan" : "NahuelBenitez 9/5/2017 19:13",
-		"green" : "NahuelBenitez 9/5/2017 19:12",
-		"pizza" : "NahuelBenitez 9/5/2017 19:07",
-		"sushi" : "NahuelBenitez 9/5/2017 19:10",
-		"beer" : "NahuelBenitez 9/5/2017 19:09"
+		"allCategories" : "Alvaro 10/17/2017 16:18",
+		"initializeBurguer" : "Alvaro 10/17/2017 16:15",
+		"sushi" : "Alvaro 10/17/2017 16:21",
+		"pizza" : "Alvaro 10/17/2017 16:21",
+		"initializePizza" : "Alvaro 10/17/2017 16:14",
+		"beer" : "Alvaro 10/17/2017 16:20",
+		"burguer" : "Alvaro 10/17/2017 16:20",
+		"initializeTurnover" : "Alvaro 10/17/2017 16:15",
+		"turnover" : "Alvaro 10/17/2017 16:21",
+		"initializeBeer" : "Alvaro 10/17/2017 16:13",
+		"green" : "Alvaro 10/17/2017 16:19",
+		"initializeGreen" : "Alvaro 10/17/2017 16:13",
+		"vegan" : "Alvaro 10/17/2017 16:21",
+		"initializeVegan" : "Alvaro 10/17/2017 16:15",
+		"initializeSushi" : "Alvaro 10/17/2017 16:15",
+		"contents" : "Alvaro 10/17/2017 16:10"
 	}
 }

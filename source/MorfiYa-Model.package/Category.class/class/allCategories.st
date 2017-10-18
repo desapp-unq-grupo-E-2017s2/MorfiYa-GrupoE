@@ -1,15 +1,13 @@
-utils
+private
 allCategories
-
 	| categories |
-	
-	categories := OrderedCollection new.
+	categories := Dictionary new.
 	categories
-		add: self beer;
-		add: self burguer;
-		add: self green;
-		add: self pizza;
-		add: self sushi;
-		add: self turnover;
-		add: self vegan.
+		at: 'beer' put: self initializeBeer;
+		at: 'burguer' put: self initializeBurguer;
+		at: 'green' put: self initializeGreen;
+		at: 'pizza' put: self initializePizza;
+		at: 'sushi' put: self initializeSushi;
+		at: 'turnover' put: self initializeTurnover;
+		at: 'vegan' put: self initializeVegan.
 	^ categories

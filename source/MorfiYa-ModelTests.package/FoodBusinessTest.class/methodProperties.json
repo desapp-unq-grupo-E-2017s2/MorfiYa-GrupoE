@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"business" : "Alvaro 10/16/2017 19:50",
+		"testAddingMenu" : "Alvaro 10/16/2017 19:30",
+		"testRemovingMenu" : "Alvaro 10/16/2017 19:31",
+		"menu" : "Alvaro 10/17/2017 11:59",
+		"testUpdateMenu" : "Alvaro 10/16/2017 19:48",
+		"testAccessing" : "isosa 10/16/2017 17:19",
+		"anotherMenu" : "Alvaro 10/17/2017 12:00",
+		"testInstanceCreationFailedBecauseDescriptionIsLong" : "isosa 10/16/2017 17:24",
+		"testInstanceCreationFailedBecauseDescriptionIsShort" : "isosa 10/16/2017 17:25"
+	},
+	"class" : { }
+}
