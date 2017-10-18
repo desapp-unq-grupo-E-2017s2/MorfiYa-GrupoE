@@ -1,4 +1,20 @@
-ENTREGA 1
+-------------------------------
+TAG 2.0
+-------------------------------
+
+NEW FEATURES:
+
+* Model - Completed
+* Relational Persistence - Completed 
+* Backend layout - Completed
+* Create, update user - Completed
+* Create, update bussiness - Completed
+* I18n- US_ES - Completed
+
+NOTES:
+
+- REST services not completed
+- Fake data
 
 -------------------------------
 TAG 1.0
@@ -10,12 +26,14 @@ NEW FEATURES:
 * Continous Integration - Completed 
 * Semi-manual deploy - Completed
 * Coveralls - Completed
-* Unit testing (98%) - Almost competed
+* Unit testing (98%) - Completed
 * Proof of Concept Google Maps API - Completed
 
 NOTES:
 
 - Missing Purchase in model
+
+
 
 
 
