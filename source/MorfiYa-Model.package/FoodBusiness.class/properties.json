@@ -9,17 +9,13 @@
 		"id",
 		"name",
 		"logo",
-		"location",
-		"address",
 		"mapLocation",
 		"description",
-		"email",
 		"serviceTime",
 		"deliveryLocation",
 		"scores",
 		"webSite",
-		"phoneNumber",
-		"contactInformation"
+		"menues"
 	],
 	"name" : "FoodBusiness",
 	"type" : "normal"

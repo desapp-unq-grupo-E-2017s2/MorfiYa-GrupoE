@@ -1,3 +1,3 @@
 Initialization
 initialize
-menues := OrderedCollection new.
+	menues := OrderedCollection new

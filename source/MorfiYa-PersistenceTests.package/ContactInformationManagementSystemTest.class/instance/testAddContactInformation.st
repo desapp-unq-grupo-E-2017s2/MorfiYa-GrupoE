@@ -7,4 +7,4 @@ testAddContactInformation
 	self assert: contactInformationManagementSystem contactInformationsCount equals: 1.
 	contactInformationFromDatabase := contactInformationManagementSystem
 		allContactInformations anyOne.
-	self assert: contactInformationFromDatabase equals: contactInformation
+	self assert: contactInformationFromDatabase equals: contactInformationFromDatabase

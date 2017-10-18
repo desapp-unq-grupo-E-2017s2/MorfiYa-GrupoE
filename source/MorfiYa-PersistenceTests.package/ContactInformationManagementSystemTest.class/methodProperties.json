@@ -5,7 +5,8 @@
 		"tearDown" : "Alvaro 10/17/2017 21:19",
 		"setUp" : "Alvaro 10/17/2017 21:19",
 		"testRemoveContactInformation" : "Alvaro 10/17/2017 21:27",
-		"testAddContactInformation" : "Alvaro 10/17/2017 21:22"
+		"testUpdateContactInformation" : "Alvaro 10/17/2017 21:45",
+		"testAddContactInformation" : "Alvaro 10/17/2017 21:46"
 	},
 	"class" : { }
 }

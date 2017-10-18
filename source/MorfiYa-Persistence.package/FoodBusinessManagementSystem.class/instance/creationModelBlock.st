@@ -12,5 +12,4 @@ creationModelBlock
 		newAttributeNamed: #webSite;
 		newAttributeNamed: #serviceTime collectionOf: WorkingHoursTime ;
 		newAttributeNamed: #deliveryLocation;
-		newAttributeNamed: #contactInformation;
 		newAttributeNamed: #scores ]

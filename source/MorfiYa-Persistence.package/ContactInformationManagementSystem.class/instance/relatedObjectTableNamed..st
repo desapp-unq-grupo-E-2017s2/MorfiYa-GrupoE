@@ -1,4 +1,4 @@
-Accessing
-externalTableNamed: aName
+accessing
+relatedObjectTableNamed: aName
 
 	^ generalPersistenceSystem tableNamed: aName

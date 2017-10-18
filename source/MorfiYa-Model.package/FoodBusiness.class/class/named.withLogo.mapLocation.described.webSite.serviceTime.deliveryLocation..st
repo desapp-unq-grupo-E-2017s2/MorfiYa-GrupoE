@@ -1,5 +1,5 @@
 Instance Creation
-named: aName withLogo: aLogo mapLocation: aPoint described: aDescription webSite: aWebsite serviceTime: aCollection deliveryLocation: anotherLocation with: aContactInformation
+named: aName withLogo: aLogo mapLocation: aPoint described: aDescription webSite: aWebsite serviceTime: aCollection deliveryLocation: anotherLocation 
 
 	self assertsIsValidDescription: aDescription.
 	^ self new
@@ -10,4 +10,3 @@ named: aName withLogo: aLogo mapLocation: aPoint described: aDescription webSite
 		webSite: aWebsite
 		serviceTime: aCollection
 		deliveryLocation: anotherLocation
-		with: aContactInformation

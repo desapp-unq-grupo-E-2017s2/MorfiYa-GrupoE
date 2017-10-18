@@ -1,4 +1,3 @@
-accessing
-externalTableNamed: aName
-
+Accessing
+relatedObjectTableNamed: aName
 	^ generalPersistenceSystem tableNamed: aName

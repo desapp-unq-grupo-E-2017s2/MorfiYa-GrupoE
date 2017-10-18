@@ -1,3 +1,3 @@
 Accessing
-businessName
+name
 	^ name

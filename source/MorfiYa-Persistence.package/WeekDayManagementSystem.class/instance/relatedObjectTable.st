@@ -1,3 +1,3 @@
 Accessing
 relatedObjectTable
-	^ self externalTableNamed: 'FOOD_MENU'
+	^ self relatedObjectTableNamed: 'FOOD_MENU'
