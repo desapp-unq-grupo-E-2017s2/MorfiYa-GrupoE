@@ -1,4 +1,0 @@
-Accessing
-phone
-
-	^contactInformation phoneNumber

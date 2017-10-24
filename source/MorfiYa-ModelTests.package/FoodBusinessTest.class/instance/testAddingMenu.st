@@ -1,4 +1,4 @@
-tests
+Tests
 testAddingMenu
 	| business menu |
 	business := self business.

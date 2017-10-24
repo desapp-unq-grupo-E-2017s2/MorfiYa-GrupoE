@@ -1,3 +1,0 @@
-Accessing
-businessName
-	^ 'Null business'

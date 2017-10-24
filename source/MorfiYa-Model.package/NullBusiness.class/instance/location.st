@@ -1,3 +1,0 @@
-Accessing
-location
-	^ 'Null location'

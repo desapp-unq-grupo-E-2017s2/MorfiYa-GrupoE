@@ -1,4 +1,4 @@
-tests
+Tests
 testUpdateMenu
 	| business menu anotherMenu |
 	business := self business.

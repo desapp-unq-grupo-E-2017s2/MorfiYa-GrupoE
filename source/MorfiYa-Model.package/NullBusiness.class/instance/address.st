@@ -1,3 +1,0 @@
-Accessing
-address
-	^'Null adress'

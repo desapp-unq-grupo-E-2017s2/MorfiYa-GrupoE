@@ -1,3 +1,0 @@
-Accessing
-email
-	^'Null email'

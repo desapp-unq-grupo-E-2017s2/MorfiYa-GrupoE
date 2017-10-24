@@ -8,4 +8,3 @@ synchronizeWith: anUpdatedFoodBusiness
 	webSite := anUpdatedFoodBusiness webSite.
 	serviceTime := anUpdatedFoodBusiness serviceTime.
 	deliveryLocation := anUpdatedFoodBusiness deliveryLocation.
-	contactInformation := anUpdatedFoodBusiness contactInformation

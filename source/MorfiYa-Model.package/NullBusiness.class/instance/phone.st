@@ -1,3 +1,0 @@
-Accessing
-phone
-	^'Null phone'

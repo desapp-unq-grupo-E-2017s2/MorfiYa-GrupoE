@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"setUp" : "Alvaro 10/24/2017 17:29",
+		"tearDown" : "Alvaro 10/17/2017 17:03",
+		"priceOffer" : "Alvaro 10/17/2017 17:20",
+		"testAddPriceOfferAndMenuAssociation" : "Alvaro 10/17/2017 17:20",
+		"testUpdatePriceOfferAndMenuAssociation" : "Alvaro 10/17/2017 21:14",
+		"menu" : "Alvaro 10/17/2017 19:19",
+		"anotherAssociation" : "Alvaro 10/17/2017 21:11",
+		"anotherPriceOffer" : "Alvaro 10/17/2017 21:11",
+		"testRemovePriceOfferAndMenuAssociation" : "Alvaro 10/17/2017 17:22",
+		"association" : "Alvaro 10/17/2017 17:19"
+	},
+	"class" : { }
+}

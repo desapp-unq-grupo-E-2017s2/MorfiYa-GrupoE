@@ -1,4 +1,4 @@
-tests
+Tests
 testRemovingMenu
 	| business menu |
 	business := self business.
