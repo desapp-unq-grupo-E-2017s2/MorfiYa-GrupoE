@@ -1,4 +1,4 @@
-instance creation
+*MorfiYa-Service
 fromJson: aNeoJSon
 
 	^ (User

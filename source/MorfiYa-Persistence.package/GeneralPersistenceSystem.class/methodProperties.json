@@ -15,9 +15,10 @@
 		"initializeDescriptor:" : "Alvaro 10/3/2017 20:41",
 		"connect" : "Alvaro 10/4/2017 19:18",
 		"countOf:" : "Alvaro 10/4/2017 20:06",
+		"findOneOf:satisfying:" : "Alvaro 10/8/2017 16:17",
 		"constructClassesFromDescriptorMethods" : "Alvaro 10/3/2017 20:06",
-		"initializeTable:" : "Alvaro 10/4/2017 20:59",
 		"connectionFailed:" : "Alvaro 9/3/2017 19:33",
+		"initializeTable:" : "Alvaro 10/4/2017 20:59",
 		"createAllTables" : "Alvaro 10/4/2017 19:16",
 		"allOf:" : "Alvaro 10/4/2017 20:06",
 		"dropAllThenCreateSchema" : "Alvaro 9/5/2017 18:22",
@@ -25,6 +26,9 @@
 		"createLogin" : "Alvaro 9/19/2017 20:13"
 	},
 	"class" : {
-		"start" : "Alvaro 9/5/2017 18:51"
+		"current" : "fischettij 10/13/2017 17:20",
+		"stop" : "fischettij 10/17/2017 15:53",
+		"start" : "Alvaro 9/5/2017 18:51",
+		"newInstance" : "fischettij 10/13/2017 14:40"
 	}
 }

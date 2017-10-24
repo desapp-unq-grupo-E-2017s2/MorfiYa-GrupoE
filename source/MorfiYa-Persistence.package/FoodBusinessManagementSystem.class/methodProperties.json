@@ -1,8 +1,10 @@
 {
 	"instance" : {
+		"tableName" : "isosa 10/17/2017 23:47",
 		"creationDescriptorBlock" : "Alvaro 10/17/2017 22:39",
 		"creationTableBlock" : "Alvaro 10/17/2017 22:34",
 		"configuration" : "isosa 10/17/2017 13:24",
+		"externalTableNamed:" : "isosa 10/17/2017 13:24",
 		"describedClass" : "isosa 10/17/2017 13:24",
 		"table" : "isosa 10/17/2017 13:25",
 		"initializeUsing:" : "isosa 10/17/2017 13:16",
@@ -11,9 +13,10 @@
 		"allFoodBusiness" : "isosa 10/17/2017 15:02",
 		"platform" : "isosa 10/17/2017 13:25",
 		"foodBusinessCount" : "isosa 10/17/2017 15:03",
+		"contactInformationMappingFor:" : "isosa 10/17/2017 13:18",
 		"creationModelBlock" : "Alvaro 10/17/2017 22:26",
 		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 22:39",
-		"tableName" : "Alvaro 10/17/2017 18:13",
+		"serviceTimeMappingFor:" : "isosa 10/17/2017 13:18",
 		"addFoodBusiness:" : "isosa 10/17/2017 15:02"
 	},
 	"class" : {

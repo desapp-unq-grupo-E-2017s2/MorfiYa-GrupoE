@@ -1,4 +1,4 @@
 Accessing
 tableName
 
-	^ 'FOOD_BUSINESS'
+	^'FOOD_BUSINESS'

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"initializeOptions" : "isosa 10/24/2017 17:01",
+		"initializeCreateFoodMenuService" : "isosa 10/24/2017 16:59",
+		"initializeAllFoodMenusService" : "isosa 10/24/2017 16:57",
+		"initializeDeployingOn:at:delegatingTo:" : "isosa 10/24/2017 17:02"
+	},
+	"class" : {
+		"deployingOn:delegatingTo:" : "isosa 10/24/2017 16:53",
+		"emptyPath" : "isosa 10/24/2017 16:54",
+		"deployingOn:at:delegatingTo:" : "isosa 10/24/2017 16:53"
+	}
+}

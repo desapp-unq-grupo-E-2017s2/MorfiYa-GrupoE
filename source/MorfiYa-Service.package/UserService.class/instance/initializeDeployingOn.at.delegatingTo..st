@@ -6,6 +6,7 @@ initializeDeployingOn: aTeapotServer at: aBasePath delegatingTo: aController
 	controller := aController.
 	
 	self
+		initializeAllUsersService;
 		initializeCreateUserService;
 		initializeUpdateUserService;
 		initializeOptions

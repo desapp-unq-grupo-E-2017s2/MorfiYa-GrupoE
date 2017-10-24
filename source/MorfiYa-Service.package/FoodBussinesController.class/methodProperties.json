@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"optionsHeaders" : "isosa 10/24/2017 16:21",
+		"initializeDatabaseConfigurations" : "isosa 10/24/2017 16:20",
+		"foodBusinessOptions" : "isosa 10/24/2017 16:26",
+		"initialize" : "isosa 10/24/2017 16:20",
+		"normalHeaders" : "isosa 10/24/2017 16:21",
+		"addFoodBusinessFrom:" : "isosa 10/24/2017 16:24",
+		"allFoodBusiness" : "isosa 10/24/2017 16:29"
+	},
+	"class" : { }
+}

@@ -8,7 +8,8 @@
 	"instvars" : [
 		"usersController",
 		"server",
-		"persistenceSystem"
+		"persistenceSystem",
+		"foodBusinessController"
 	],
 	"name" : "UsersInterface",
 	"type" : "normal"
