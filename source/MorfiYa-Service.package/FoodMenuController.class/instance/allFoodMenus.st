@@ -2,5 +2,5 @@ Querying
 allFoodMenus
 
 	^ TeaResponse ok
-		body: foodMenuManagementSystem allFodMenues;
+		body: foodMenuManagementSystem allFoodMenus;
 		headers: self normalHeaders

@@ -7,7 +7,7 @@
 		"dropAllTables" : "Alvaro 9/5/2017 18:22",
 		"initializeClassModel:" : "Alvaro 10/3/2017 20:43",
 		"glorpSession:" : "Alvaro 9/3/2017 19:32",
-		"add:" : "Alvaro 10/4/2017 20:06",
+		"add:" : "isosa 10/26/2017 13:55",
 		"connectionFailed" : "Alvaro 9/3/2017 19:32",
 		"createAllSequences" : "Alvaro 10/4/2017 19:10",
 		"glorpSession" : "Alvaro 9/3/2017 19:32",
@@ -23,7 +23,7 @@
 		"allOf:" : "Alvaro 10/4/2017 20:06",
 		"dropAllThenCreateSchema" : "Alvaro 9/5/2017 18:22",
 		"disconnect" : "Alvaro 10/4/2017 19:19",
-		"createLogin" : "Alvaro 9/19/2017 20:13"
+		"createLogin" : "isosa 10/26/2017 12:07"
 	},
 	"class" : {
 		"current" : "fischettij 10/13/2017 17:20",

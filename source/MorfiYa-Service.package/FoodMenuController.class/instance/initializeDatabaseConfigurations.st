@@ -1,5 +1,5 @@
 initialization
 initializeDatabaseConfigurations
 
-	foodMenuManagementSystem := FoodMenuManagementSystemTest using: GeneralPersistenceSystem current.
-	GeneralPersistenceSystem current dropAllThenCreateSchema 
+	foodMenuManagementSystem := FoodMenuesManagementSystem using: GeneralPersistenceSystem current.
+	GeneralPersistenceSystem current dropAllThenCreateSchema

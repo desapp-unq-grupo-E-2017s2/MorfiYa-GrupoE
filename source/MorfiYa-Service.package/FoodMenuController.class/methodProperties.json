@@ -2,9 +2,9 @@
 	"instance" : {
 		"optionsHeaders" : "isosa 10/24/2017 16:47",
 		"foodMenuOptions" : "isosa 10/24/2017 16:52",
-		"allFoodMenus" : "isosa 10/24/2017 16:48",
+		"allFoodMenus" : "isosa 10/26/2017 12:55",
 		"initialize" : "isosa 10/24/2017 16:45",
-		"initializeDatabaseConfigurations" : "isosa 10/24/2017 16:46",
+		"initializeDatabaseConfigurations" : "isosa 10/26/2017 12:50",
 		"normalHeaders" : "isosa 10/24/2017 16:46",
 		"addFoodMenuFrom:" : "isosa 10/24/2017 16:52"
 	},

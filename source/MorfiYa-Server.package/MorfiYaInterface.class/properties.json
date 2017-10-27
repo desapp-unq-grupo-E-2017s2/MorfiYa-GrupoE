@@ -9,8 +9,9 @@
 		"usersController",
 		"server",
 		"persistenceSystem",
-		"foodBusinessController"
+		"foodBusinessController",
+		"foodMenuController"
 	],
-	"name" : "UsersInterface",
+	"name" : "MorfiYaInterface",
 	"type" : "normal"
 }
