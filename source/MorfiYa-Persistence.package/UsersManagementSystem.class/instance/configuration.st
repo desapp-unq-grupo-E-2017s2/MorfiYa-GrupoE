@@ -1,5 +1,6 @@
 Accessing
 configuration
+
 	^ PersistenceConfigurator
 		using: self
 		creatingClassModelWith: self creationModelBlock

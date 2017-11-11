@@ -1,10 +1,10 @@
 {
 	"instance" : {
 		"anotherUser" : "Alvaro 10/17/2017 17:00",
-		"testAddCustomer" : "Alvaro 10/17/2017 17:01",
+		"testAddCustomer" : "isosa 10/31/2017 19:11",
 		"testRemoveCustomer" : "Alvaro 10/17/2017 17:01",
 		"tearDown" : "Alvaro 9/5/2017 18:25",
-		"setUp" : "Alvaro 10/17/2017 19:21",
+		"setUp" : "isosa 10/31/2017 20:17",
 		"testUpdateCustomer" : "Alvaro 10/17/2017 19:24",
 		"user" : "Alvaro 10/17/2017 17:00"
 	},

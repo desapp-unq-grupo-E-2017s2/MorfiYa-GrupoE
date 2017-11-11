@@ -1,5 +1,6 @@
 Tests
 testAddFoodMenu
+
 	| foodMenu foodMenuFromDatabase |
 	self assert: foodMenuPersistenceSystem foodMenuCount equals: 0.
 	foodMenu := self foodMenu.

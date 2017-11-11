@@ -1,5 +1,5 @@
 Initialization
 setUp
-	persistenceSystem := GeneralPersistenceSystem start.
+	persistenceSystem := PersistenceSystem start.
 	categoriesPersistenceSystem := CategoriesManagementSystem using: persistenceSystem.
 	persistenceSystem dropAllThenCreateSchema

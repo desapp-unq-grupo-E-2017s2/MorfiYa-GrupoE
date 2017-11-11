@@ -1,20 +1,21 @@
 {
 	"instance" : {
-		"creationDescriptorBlock" : "Alvaro 10/17/2017 13:06",
-		"creationTableBlock" : "Alvaro 10/17/2017 14:51",
-		"updateUser:with:" : "Alvaro 10/17/2017 13:20",
-		"configuration" : "Alvaro 10/4/2017 21:16",
-		"allUsers" : "Alvaro 10/17/2017 13:18",
-		"describedClass" : "Alvaro 10/17/2017 12:52",
-		"initializeUsing:" : "Alvaro 10/3/2017 20:49",
+		"creationDescriptorBlock" : "isosa 11/11/2017 15:47",
+		"creationTableBlock" : "isosa 10/31/2017 19:39",
+		"updateUser:with:" : "isosa 11/11/2017 15:48",
+		"configuration" : "isosa 11/11/2017 15:47",
+		"relatedObjectTable" : "isosa 10/31/2017 19:48",
+		"allUsers" : "isosa 11/11/2017 15:47",
+		"describedClass" : "isosa 11/11/2017 15:48",
+		"initializeUsing:" : "isosa 11/11/2017 15:48",
 		"removeUser:" : "Alvaro 10/17/2017 13:19",
-		"table" : "Alvaro 10/4/2017 20:50",
-		"usersCount" : "Alvaro 10/17/2017 13:18",
-		"platform" : "Alvaro 10/4/2017 20:53",
-		"creationModelBlock" : "Alvaro 10/17/2017 12:57",
+		"table" : "isosa 11/11/2017 15:48",
+		"usersCount" : "isosa 11/11/2017 15:48",
+		"platform" : "isosa 11/11/2017 15:48",
+		"creationModelBlock" : "isosa 10/31/2017 14:28",
 		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 14:51",
-		"tableName" : "Alvaro 10/17/2017 17:39",
-		"addUser:" : "Alvaro 10/17/2017 13:19"
+		"tableName" : "isosa 11/11/2017 15:48",
+		"addUser:" : "isosa 11/11/2017 15:47"
 	},
 	"class" : {
 		"using:" : "Alvaro 10/3/2017 20:48"

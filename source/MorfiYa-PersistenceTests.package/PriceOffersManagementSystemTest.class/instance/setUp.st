@@ -1,5 +1,5 @@
 Initialization
 setUp
-	persistenceSystem := GeneralPersistenceSystem start.
+	persistenceSystem := PersistenceSystem start.
 	priceOffersPersistenceSystem  := PriceOffersManagementSystem  using: persistenceSystem.
 	persistenceSystem dropAllThenCreateSchema

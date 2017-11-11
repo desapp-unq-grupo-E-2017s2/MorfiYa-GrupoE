@@ -3,10 +3,10 @@
 		"anotherContactInformation" : "Alvaro 10/17/2017 21:37",
 		"contactInformation" : "Alvaro 10/17/2017 21:24",
 		"tearDown" : "Alvaro 10/17/2017 21:19",
-		"setUp" : "Alvaro 10/17/2017 21:19",
+		"setUp" : "isosa 11/11/2017 16:19",
 		"testRemoveContactInformation" : "Alvaro 10/17/2017 21:27",
 		"testUpdateContactInformation" : "Alvaro 10/17/2017 21:45",
-		"testAddContactInformation" : "Alvaro 10/17/2017 21:46"
+		"testAddContactInformation" : "isosa 11/11/2017 15:45"
 	},
 	"class" : { }
 }

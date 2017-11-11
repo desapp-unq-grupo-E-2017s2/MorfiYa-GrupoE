@@ -1,6 +1,7 @@
 initialization
 setUp
-	persistenceSystem := GeneralPersistenceSystem start.
+	persistenceSystem := PersistenceSystem start.
 	contactInformationManagementSystem := ContactInformationManagementSystem
 		using: persistenceSystem.
+	userManagementSystem := UsersManagementSystem using: persistenceSystem.
 	persistenceSystem dropAllThenCreateSchema

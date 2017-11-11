@@ -8,6 +8,7 @@ foodMenu
 		add: (WorkingHoursTime on: WeekDay thursday from: 8 to: 20);
 		add: (WorkingHoursTime on: WeekDay friday from: 8 to: 20);
 		yourself.
+		
 	^ FoodMenu
 		named: 'McCombo'
 		description: 'Burguer + fries and coke'

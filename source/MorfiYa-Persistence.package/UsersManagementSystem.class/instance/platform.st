@@ -1,3 +1,4 @@
 Accessing
 platform
+
 	^ generalPersistenceSystem  platform

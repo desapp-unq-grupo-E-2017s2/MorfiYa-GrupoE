@@ -1,5 +1,6 @@
 Tests
 testUpdateWorkingHour
+
 	| workingHour workingHourFromDatabase anotherWorkingHour |
 	self assert: workingHoursPersistenceSystem workingHoursCount equals: 0.
 	workingHour := self workingHour.

@@ -1,6 +1,6 @@
 Initialization
 setUp
-	persistenceSystem := GeneralPersistenceSystem start.
+	persistenceSystem := PersistenceSystem start.
 	FoodBusinessManagementSystem using: persistenceSystem .
 	WeekDayManagementSystem using: persistenceSystem .
 	WorkingHourManagementSystem using: persistenceSystem.

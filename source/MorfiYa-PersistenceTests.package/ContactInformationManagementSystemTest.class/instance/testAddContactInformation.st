@@ -1,5 +1,6 @@
 Tests
 testAddContactInformation
+
 	| contactInformation contactInformationFromDatabase |
 	self assert: contactInformationManagementSystem contactInformationsCount equals: 0.
 	contactInformation := self contactInformation.
