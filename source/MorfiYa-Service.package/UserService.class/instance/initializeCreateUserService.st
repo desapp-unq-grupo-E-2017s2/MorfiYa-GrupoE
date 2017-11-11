@@ -1,5 +1,5 @@
-Initialize - service
+initialization
 initializeCreateUserService
 
 	server
-		POST: (self fullPathUsing: '/user') -> [ :request | controller addUserFrom: request contents ]
+		POST: (self fullPathUsing: '/users') -> [ :request | controller addUserFrom: request contents ]

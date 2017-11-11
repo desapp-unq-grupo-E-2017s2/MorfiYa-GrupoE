@@ -1,5 +1,6 @@
 initialization
 initializeDatabaseConfigurations
 
-	foodMenuManagementSystem := FoodMenuesManagementSystem using: GeneralPersistenceSystem current.
-	GeneralPersistenceSystem current dropAllThenCreateSchema
+	foodMenuManagementSystem := FoodMenuesManagementSystem using: PersistenceSystem current.
+	weekDayManagementSystem := WeekDayManagementSystem using: PersistenceSystem current.
+	workingHourManagementsystem := WorkingHourManagementSystem using: PersistenceSystem current

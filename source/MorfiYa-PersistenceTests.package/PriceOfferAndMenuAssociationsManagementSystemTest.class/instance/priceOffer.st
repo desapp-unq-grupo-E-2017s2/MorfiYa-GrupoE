@@ -1,5 +1,6 @@
 Test Support
 priceOffer
+
 	| minoristRange mayoristRange minoristPrice mayoristPrice |
 	minoristRange := 10 to: 40.
 	minoristPrice := 10.

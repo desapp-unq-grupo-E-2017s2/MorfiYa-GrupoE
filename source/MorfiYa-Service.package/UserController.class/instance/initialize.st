@@ -1,4 +1,3 @@
 initialization
 initialize
-
-	self initializeDatabaseConfigurations 
+	self initializeDatabaseConfigurations

@@ -1,5 +1,5 @@
 initialization
 initializeDatabaseConfigurations
 
-	userManagementSystem := UsersManagementSystem using: GeneralPersistenceSystem current.
-	GeneralPersistenceSystem current dropAllThenCreateSchema 
+	userManagementSystem := UsersManagementSystem using: PersistenceSystem current.
+	contactInformationManagementSystem := ContactInformationManagementSystem using: PersistenceSystem current.

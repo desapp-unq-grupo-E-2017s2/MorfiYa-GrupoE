@@ -7,7 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"server",
-		"foodMenuManagementSystem"
+		"foodMenuManagementSystem",
+		"workingHourManagementsystem",
+		"weekDayManagementSystem"
 	],
 	"name" : "FoodMenuController",
 	"type" : "normal"

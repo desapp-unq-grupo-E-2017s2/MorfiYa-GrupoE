@@ -1,4 +1,4 @@
-Initialize - service
+initialization
 initializeAllUsersService
 
-	server GET: (self fullPathUsing: '/user') -> [:request | controller allUsers ]
+	server GET: (self fullPathUsing: '/users') -> [:request | controller allUsers ]

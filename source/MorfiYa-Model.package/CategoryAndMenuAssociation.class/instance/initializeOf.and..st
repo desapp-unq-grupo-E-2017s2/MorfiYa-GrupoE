@@ -1,4 +1,5 @@
 Initialization
 initializeOf: aCategory and: aFoodMenu 
-	category := aCategory .
+
+	category := aCategory.
 	foodMenu := aFoodMenu 

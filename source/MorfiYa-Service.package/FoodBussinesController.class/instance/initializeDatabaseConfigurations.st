@@ -2,5 +2,4 @@ initialization
 initializeDatabaseConfigurations
 
 	foodBussinesManagementSystem := FoodBusinessManagementSystem
-		using: GeneralPersistenceSystem current.
-	GeneralPersistenceSystem current dropAllThenCreateSchema
+		using: PersistenceSystem current.

@@ -1,6 +1,6 @@
-Initialize - service
+initialization
 initializeUpdateUserService
 	server
 		PUT:
-			(self fullPathUsing: '/user/<id>')
+			(self fullPathUsing: '/users/<id>')
 				-> [ :request | controller updateUserOfId: (request at: #id) withUserFrom: request contents ]
