@@ -1,0 +1,1 @@
+Class to represent days of the week

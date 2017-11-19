@@ -1,0 +1,1 @@
+System to manage  associations between price offers and menues

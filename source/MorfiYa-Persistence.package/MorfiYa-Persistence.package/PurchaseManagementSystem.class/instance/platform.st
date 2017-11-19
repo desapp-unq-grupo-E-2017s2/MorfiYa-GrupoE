@@ -1,0 +1,4 @@
+Accessing
+platform
+
+	^persistenceSystem platform

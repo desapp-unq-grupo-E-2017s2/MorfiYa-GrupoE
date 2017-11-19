@@ -1,0 +1,3 @@
+Accessing
+priceOffer
+	^ priceOffer

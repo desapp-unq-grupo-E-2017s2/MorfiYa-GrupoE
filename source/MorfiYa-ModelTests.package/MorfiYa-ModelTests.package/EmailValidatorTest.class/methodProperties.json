@@ -1,0 +1,7 @@
+{
+	"instance" : {
+		"testEmailAddressWithInvalidDomain" : "isosa 8/22/2017 21:08",
+		"testEmailAddressWithoutAtSign" : "Alvaro 10/17/2017 10:28"
+	},
+	"class" : { }
+}

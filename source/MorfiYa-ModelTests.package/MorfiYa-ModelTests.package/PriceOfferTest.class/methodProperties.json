@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testAccessing" : "Alvaro 10/16/2017 13:53",
+		"testInstanceCreationFailedBecauseOfRangesAndPricesValidations" : "Alvaro 10/16/2017 14:32",
+		"testPriceForAQuantity" : "Alvaro 10/17/2017 10:00",
+		"testNoPriceForQuantityNotIncludedInAnyRange" : "Alvaro 10/17/2017 10:15"
+	},
+	"class" : { }
+}

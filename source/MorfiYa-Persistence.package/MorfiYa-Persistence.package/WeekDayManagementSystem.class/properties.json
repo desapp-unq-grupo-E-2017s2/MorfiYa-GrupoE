@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "isosa 10/17/2017 15:09",
+	"super" : "Object",
+	"category" : "MorfiYa-Persistence",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"generalPersistenceSystem"
+	],
+	"name" : "WeekDayManagementSystem",
+	"type" : "normal"
+}

@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"lastName" : "Alvaro 10/16/2017 17:21",
+		"synchronizeWith:" : "Alvaro 10/17/2017 12:47",
+		"deposit:" : "Alvaro 10/16/2017 17:54",
+		"name" : "Alvaro 10/16/2017 17:21",
+		"id" : "Alvaro 10/17/2017 12:55",
+		"money" : "isosa 11/17/2017 15:27",
+		"initialize" : "Alvaro 10/16/2017 17:44",
+		"contactInformation" : "Alvaro 10/17/2017 12:48",
+		"initializeIdentifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
+		"id:" : "isosa 11/17/2017 12:52",
+		"validateExtractionOf:" : "Alvaro 10/16/2017 17:59",
+		"extract:" : "Alvaro 10/16/2017 17:59",
+		"cuit" : "Alvaro 10/16/2017 17:20",
+		"hasBusiness" : "Alvaro 10/17/2017 13:11"
+	},
+	"class" : {
+		"identifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
+		"identifiedBy:named:and:describedAs:" : "Alvaro 10/17/2017 13:13",
+		"validateTaxPayierIdentifier:" : "isosa 11/17/2017 13:09",
+		"contactInformationFrom:" : "isosa 10/17/2017 22:27"
+	}
+}

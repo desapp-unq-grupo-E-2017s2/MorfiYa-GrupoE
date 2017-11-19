@@ -1,0 +1,4 @@
+Accessing
+openingTime
+
+	^ openingTime

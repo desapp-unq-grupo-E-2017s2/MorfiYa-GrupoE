@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "Alvaro 10/24/2017 17:41",
+	"super" : "Object",
+	"category" : "MorfiYa-Server",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"usersController",
+		"server",
+		"persistenceSystem",
+		"foodBusinessController",
+		"foodMenuController"
+	],
+	"name" : "MorfiYaInterface",
+	"type" : "normal"
+}

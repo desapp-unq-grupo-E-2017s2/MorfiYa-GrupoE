@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "Alvaro 10/17/2017 19:59",
+	"super" : "Object",
+	"category" : "MorfiYa-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"workingDay",
+		"openingTime",
+		"closingTime"
+	],
+	"name" : "WorkingHoursTime",
+	"type" : "normal"
+}

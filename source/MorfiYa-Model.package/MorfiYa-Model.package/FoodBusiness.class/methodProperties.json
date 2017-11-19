@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"hasMenu:" : "Alvaro 10/16/2017 19:56",
+		"synchronizeWith:" : "Alvaro 10/24/2017 17:38",
+		"updateMenu:with:" : "Alvaro 10/16/2017 19:17",
+		"description" : "Anonymous 8/21/2017 22:07",
+		"removeMenu:" : "Alvaro 10/16/2017 19:13",
+		"name" : "Alvaro 10/17/2017 22:06",
+		"mapLocation" : "Anonymous 8/21/2017 22:07",
+		"id" : "isosa 10/10/2017 16:58",
+		"initialize" : "Alvaro 10/17/2017 22:07",
+		"webSite" : "isosa 10/10/2017 15:48",
+		"id:" : "isosa 10/10/2017 16:58",
+		"deliveryLocation" : "Anonymous 8/21/2017 22:09",
+		"logo" : "Anonymous 8/21/2017 22:06",
+		"addMenu:" : "Alvaro 10/16/2017 19:13",
+		"serviceTime" : "Anonymous 8/21/2017 22:09",
+		"initializeNamed:withLogo:mapLocation:described:webSite:serviceTime:deliveryLocation:" : "Alvaro 10/17/2017 22:25"
+	},
+	"class" : {
+		"named:withLogo:mapLocation:described:webSite:serviceTime:deliveryLocation:" : "Alvaro 10/17/2017 22:15",
+		"assertsIsValidDescription:" : "isosa 10/24/2017 17:34"
+	}
+}

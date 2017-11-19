@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"initializeAllUsersService" : "isosa 10/29/2017 18:33",
+		"initializeDeployingOn:at:delegatingTo:" : "isosa 10/24/2017 14:46",
+		"initializeUpdateUserService" : "isosa 10/29/2017 18:33",
+		"initializeCreateUserService" : "isosa 10/29/2017 18:33",
+		"initializeOptions" : "isosa 10/17/2017 22:07",
+		"fullPathUsing:" : "isosa 10/17/2017 22:08"
+	},
+	"class" : {
+		"deployingOn:delegatingTo:" : "isosa 10/17/2017 21:54",
+		"emptyPath" : "isosa 10/17/2017 21:54",
+		"deployingOn:at:delegatingTo:" : "isosa 10/17/2017 21:54"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"settle" : "isosa 11/18/2017 17:26",
+		"totalAmount" : "isosa 11/17/2017 17:26",
+		"deliveryType" : "isosa 10/17/2017 10:37",
+		"estimatedTimeForDelivery" : "isosa 10/17/2017 10:37",
+		"customer" : "isosa 10/17/2017 10:37",
+		"purchasing:delivering:on:lasting:purchasedBy:andSaledBy:" : "isosa 11/17/2017 17:03",
+		"renewStock" : "isosa 11/18/2017 17:31",
+		"quantity" : "isosa 11/18/2017 19:08",
+		"deliveryTime" : "isosa 10/17/2017 10:37",
+		"deliveryDate" : "isosa 10/17/2017 10:37",
+		"menus" : "isosa 10/17/2017 10:37"
+	},
+	"class" : {
+		"assertIsValidDeliveryDate:" : "isosa 10/17/2017 10:35",
+		"assertAllMenuesAreUnexpired:" : "isosa 11/17/2017 16:24",
+		"purchasing:delivering:on:lasting:purchasedBy:andSaledBy:" : "isosa 11/17/2017 17:16",
+		"assertHasEnoughMoney:for:" : "isosa 11/17/2017 15:32",
+		"assertNotEmptyPurchase:" : "isosa 11/17/2017 16:59"
+	}
+}

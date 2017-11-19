@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"creationDescriptorBlock" : "Alvaro 10/17/2017 15:34",
+		"creationTableBlock" : "Alvaro 10/17/2017 15:39",
+		"removePriceOffer:" : "Alvaro 10/17/2017 15:47",
+		"configuration" : "Alvaro 10/17/2017 15:40",
+		"describedClass" : "Alvaro 10/17/2017 15:40",
+		"table" : "Alvaro 10/17/2017 15:41",
+		"initializeUsing:" : "Alvaro 10/17/2017 15:28",
+		"priceOffersCount" : "Alvaro 10/17/2017 15:58",
+		"updatePriceOffer:with:" : "Alvaro 10/17/2017 15:48",
+		"platform" : "Alvaro 10/17/2017 15:40",
+		"allPriceOffers" : "Alvaro 10/17/2017 15:46",
+		"addPriceOffer:" : "Alvaro 10/17/2017 15:46",
+		"creationModelBlock" : "Alvaro 10/17/2017 15:36",
+		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 15:40",
+		"tableName" : "Alvaro 10/17/2017 17:39"
+	},
+	"class" : {
+		"using:" : "isosa 11/17/2017 18:41"
+	}
+}

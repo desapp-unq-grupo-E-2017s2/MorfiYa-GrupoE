@@ -1,0 +1,4 @@
+private
+emptyPath
+
+	^String new
