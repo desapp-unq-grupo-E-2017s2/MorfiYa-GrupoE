@@ -8,9 +8,11 @@ baseline: spec
 				package: 'MorfiYa-Model'with: [ spec requires: #('Buoy' 'Chalten') ];
 				package: 'MorfiYa-ModelTests' with: [ spec requires: 'MorfiYa-Model' ];
 				package: 'MorfiYa-Persistence'with: [ spec requires: 'GlorpDriverMySQL' ];
-				package: 'MorfiYa-PersistenceTests' with: [ spec requires: 'MorfiYa-Persistence' ].
+				package: 'MorfiYa-PersistenceTests' with: [ spec requires: 'MorfiYa-Persistence' ];
+				package: 'MorfiYa-Service' with: [ spec requires: #('MorfiYa-Model' 'MorfiYa-Persistence' 'Teapot') ];
+				package: 'MorfiYa-Server' with: [ spec requires: #('MorfiYa-Service' 'Teapot') ].
 			spec
-				group: 'Deployment' with: #('MorfiYa-Model' 'MorfiYa-Persistence');
+				group: 'Deployment' with: #('MorfiYa-Model' 'MorfiYa-Persistence' 'MorfiYa-Service' 'MorfiYa-Server');
 				group: 'Development'
 					with: #('Deployment' 'MorfiYa-ModelTests' 'MorfiYa-PersistenceTests');
 				group: 'default' with: #('Development') ]
