@@ -1,4 +1,3 @@
 Accessing
-id: anId
-	
+id: anId 
 	id := anId

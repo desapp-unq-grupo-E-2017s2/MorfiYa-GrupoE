@@ -1,1 +1,0 @@
-Assertion failed when looking for a price in oofer

@@ -1,4 +1,0 @@
-Accessing
-locality
-
-	  ^locality  

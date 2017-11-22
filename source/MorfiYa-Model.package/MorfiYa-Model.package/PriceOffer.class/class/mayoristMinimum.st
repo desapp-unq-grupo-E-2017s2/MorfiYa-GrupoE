@@ -1,3 +1,0 @@
-Auxiliar
-mayoristMinimum
-	^41

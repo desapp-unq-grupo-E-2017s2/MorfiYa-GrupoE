@@ -1,1 +1,0 @@
-Controller of Food Business. Intervener between frontend request and backend

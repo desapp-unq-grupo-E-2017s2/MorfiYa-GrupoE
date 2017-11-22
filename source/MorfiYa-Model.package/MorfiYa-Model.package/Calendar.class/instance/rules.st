@@ -1,3 +1,0 @@
-accessing
-rules
-	^ timelineFilter rules

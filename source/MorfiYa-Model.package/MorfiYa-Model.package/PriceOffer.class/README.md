@@ -1,1 +1,0 @@
-Price offer for relation between minorist/mayorist quantity and minorist/mayorist price

@@ -1,3 +1,0 @@
-Accessing
-description
-	^'Null description'

@@ -1,1 +1,0 @@
-Controller of User. Intervener between frontend request and backend

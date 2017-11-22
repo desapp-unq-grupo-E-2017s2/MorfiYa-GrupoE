@@ -1,3 +1,0 @@
-Auxiliar
-mayoristMaximum
-	^150

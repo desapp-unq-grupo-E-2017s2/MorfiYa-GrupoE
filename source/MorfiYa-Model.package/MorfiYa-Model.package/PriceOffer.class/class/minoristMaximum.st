@@ -1,3 +1,0 @@
-Auxiliar
-minoristMaximum
-	^40

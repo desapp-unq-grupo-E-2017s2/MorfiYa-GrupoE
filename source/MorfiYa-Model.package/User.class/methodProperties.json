@@ -9,6 +9,7 @@
 		"initialize" : "Alvaro 10/16/2017 17:44",
 		"contactInformation" : "Alvaro 10/17/2017 12:48",
 		"initializeIdentifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
+		"id:" : "Alvaro 11/21/2017 22:09",
 		"validateExtractionOf:" : "Alvaro 10/16/2017 17:59",
 		"extract:" : "Alvaro 10/16/2017 17:59",
 		"cuit" : "Alvaro 10/16/2017 17:20",
@@ -18,6 +19,6 @@
 		"identifiedBy:named:and:describedAs:startingBusiness:" : "Alvaro 10/17/2017 13:12",
 		"identifiedBy:named:and:describedAs:" : "Alvaro 10/17/2017 13:13",
 		"validateTaxPayierIdentifier:" : "Alvaro 10/16/2017 18:12",
-		"contactInformationFrom:" : "isosa 10/17/2017 22:27"
+		"contactInformationFrom:" : "Alvaro 11/21/2017 22:07"
 	}
 }

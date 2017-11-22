@@ -1,1 +1,0 @@
-Class representing working hours on a day

@@ -1,4 +1,0 @@
-Accessing
-workingDay
-
-	^workingDay

@@ -1,4 +1,0 @@
-Accessing
-money
-
-	^money 

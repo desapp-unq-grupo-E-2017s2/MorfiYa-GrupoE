@@ -3,8 +3,8 @@ contactInformationFrom: aNeoJson
 
 	^ (ContactInformation
 		adressedWith: (aNeoJson at: #address)
-		locatedIn: (aNeoJson at: #locality)
+		locatedIn: (aNeoJson at: #location)
 		withEmail: (aNeoJson at: #email)
-		andPhoneNumber: (aNeoJson at: #phoneNumber))
+		andPhoneNumber: (aNeoJson at: #phone))
 		id: (aNeoJson at: #id);
 		yourself

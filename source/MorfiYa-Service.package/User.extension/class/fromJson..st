@@ -5,6 +5,6 @@ fromJson: aNeoJSon
 		identifiedBy: (aNeoJSon at: #cuit)
 		named: (aNeoJSon at: #name)
 		and: (aNeoJSon at: #lastName)
-		describedAs: (self contactInformationFrom: (aNeoJSon at: #contactInformation)))
+		describedAs: (self contactInformationFrom: aNeoJSon ))
 		id: (aNeoJSon at: #id);
 		yourself

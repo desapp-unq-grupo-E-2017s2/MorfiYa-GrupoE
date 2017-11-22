@@ -1,1 +1,0 @@
-Exception used when a money transaction fails

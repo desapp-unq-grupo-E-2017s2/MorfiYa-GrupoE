@@ -1,3 +1,0 @@
-Accessing
-logo
-	^'Null logo'

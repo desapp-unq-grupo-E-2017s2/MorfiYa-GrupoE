@@ -1,4 +1,0 @@
-Accessing
-category
-
-	^ category

@@ -1,1 +1,0 @@
-User account of the system
