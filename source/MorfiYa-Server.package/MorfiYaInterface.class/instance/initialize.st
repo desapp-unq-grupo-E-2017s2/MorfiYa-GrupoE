@@ -4,6 +4,6 @@ initialize
 	usersController := UserController new.
 	foodBusinessController := FoodBussinesController new.
 	foodMenuController := FoodMenuController new.
-	self initializeTUVIEJA.
+	self initializePersistenceSystem.
 	self initializeServer.
 	self initializeRoutes

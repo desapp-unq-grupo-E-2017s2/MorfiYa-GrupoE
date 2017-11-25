@@ -1,4 +1,0 @@
-Querying
-updateContactInformation: aContactInformation with: anotherContactInformation
-
-	generalPersistenceSystem update: aContactInformation with: anotherContactInformation

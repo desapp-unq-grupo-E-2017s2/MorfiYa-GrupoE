@@ -9,4 +9,5 @@ initializeDeployingOn: aTeapotServer at: aBasePath delegatingTo: aController
 		initializeAllUsersService;
 		initializeCreateUserService;
 		initializeUpdateUserService;
+		initializeAuthenticationService;
 		initializeOptions

@@ -1,3 +1,0 @@
-Querying
-addPriceOfferAndMenuAssociation: anAssociation
-	^ generalPersistenceSystem add: anAssociation

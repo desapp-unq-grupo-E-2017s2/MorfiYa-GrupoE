@@ -1,1 +1,0 @@
-System to manage days of the week

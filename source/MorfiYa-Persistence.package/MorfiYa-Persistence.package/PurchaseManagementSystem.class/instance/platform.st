@@ -1,4 +1,0 @@
-Accessing
-platform
-
-	^persistenceSystem platform

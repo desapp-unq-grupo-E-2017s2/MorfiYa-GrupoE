@@ -1,4 +1,0 @@
-initialization
-start
-
-	server start

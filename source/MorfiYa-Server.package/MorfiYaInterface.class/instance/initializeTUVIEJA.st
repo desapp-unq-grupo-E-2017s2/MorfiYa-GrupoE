@@ -1,4 +1,0 @@
-initialization
-initializeTUVIEJA
-
-	PersistenceSystem current dropAllThenCreateSchema

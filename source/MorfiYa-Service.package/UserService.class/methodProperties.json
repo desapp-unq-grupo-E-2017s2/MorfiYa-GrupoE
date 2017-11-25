@@ -1,9 +1,10 @@
 {
 	"instance" : {
 		"initializeAllUsersService" : "isosa 10/29/2017 18:33",
-		"initializeDeployingOn:at:delegatingTo:" : "isosa 10/24/2017 14:46",
+		"initializeDeployingOn:at:delegatingTo:" : "ALvaro 11/23/2017 21:59",
 		"initializeUpdateUserService" : "isosa 10/29/2017 18:33",
 		"initializeCreateUserService" : "isosa 10/29/2017 18:33",
+		"initializeAuthenticationService" : "ALvaro 11/23/2017 22:01",
 		"initializeOptions" : "Alvaro 11/21/2017 22:33",
 		"fullPathUsing:" : "isosa 10/17/2017 22:08"
 	},

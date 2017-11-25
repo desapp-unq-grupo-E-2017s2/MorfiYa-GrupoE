@@ -1,4 +1,4 @@
 Defaults
 normalHeaders
 
-	^{('Acess-Controll-Allow-Origin' -> 'locahost:3000')}
+	^{('Acess-Controll-Allow-Origin' -> '*')}
