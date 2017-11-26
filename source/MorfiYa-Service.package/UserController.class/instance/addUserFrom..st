@@ -9,4 +9,4 @@ addUserFrom: aJsonStringUser
 	
 	^ TeaResponse ok
 		body: result;
-		headers: self normalHeaders
+		headers: self optionsHeaders

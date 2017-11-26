@@ -1,1 +1,0 @@
-I am a test class responsible to test the class model calendar.

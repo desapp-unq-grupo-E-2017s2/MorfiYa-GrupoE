@@ -10,7 +10,8 @@
 		"address",
 		"email",
 		"phoneNumber",
-		"locality"
+		"locality",
+		"password"
 	],
 	"name" : "ContactInformation",
 	"type" : "normal"

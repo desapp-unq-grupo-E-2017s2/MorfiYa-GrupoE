@@ -1,4 +1,4 @@
-Instance Creation
+Validating
 assertsIsValidPhoneNumber: aPhoneNumber
 
 	aPhoneNumber size < 6

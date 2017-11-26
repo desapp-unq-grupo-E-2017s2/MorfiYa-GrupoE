@@ -2,4 +2,4 @@ initialization
 initializeDatabaseConfigurations
 
 	userManagementSystem := UsersManagementSystem using: PersistenceSystem current.
-	contactInformationManagementSystem := ContactInformationManagementSystem using: PersistenceSystem current.
+	ContactInformationManagementSystem using: PersistenceSystem current

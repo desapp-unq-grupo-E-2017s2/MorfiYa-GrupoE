@@ -7,4 +7,5 @@ creationModelBlock
 		newAttributeNamed: #address;
 		newAttributeNamed: #locality;
 		newAttributeNamed: #phoneNumber;
-		newAttributeNamed: #email ]
+		newAttributeNamed: #email;
+		newAttributeNamed: #password ]

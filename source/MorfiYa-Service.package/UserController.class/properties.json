@@ -6,9 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"server",
-		"userManagementSystem",
-		"contactInformationManagementSystem"
+		"userManagementSystem"
 	],
 	"name" : "UserController",
 	"type" : "normal"

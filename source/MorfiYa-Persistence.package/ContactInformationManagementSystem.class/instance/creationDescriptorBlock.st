@@ -10,4 +10,5 @@ creationDescriptorBlock
 	(aDescriptor newMapping: DirectMapping) from: #locality to: (table fieldNamed: 'locality').
 	(aDescriptor newMapping: DirectMapping) from: #phoneNumber to: (table fieldNamed: 'phoneNumber').
 	(aDescriptor newMapping: DirectMapping) from: #email to: (table fieldNamed: 'email').
+	(aDescriptor newMapping: DirectMapping) from: #password to: (table fieldNamed: 'password').
 	]
