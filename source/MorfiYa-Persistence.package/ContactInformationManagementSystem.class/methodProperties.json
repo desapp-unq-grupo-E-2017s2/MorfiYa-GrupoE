@@ -1,23 +1,10 @@
 {
 	"instance" : {
-		"contactInformationsCount" : "Alvaro 10/17/2017 21:23",
-		"creationDescriptorBlock" : "ALvaro 11/26/2017 12:29",
-		"creationTableBlock" : "ALvaro 11/26/2017 12:30",
-		"updateContactInformation:with:" : "isosa 10/17/2017 16:41",
-		"configuration" : "isosa 10/17/2017 16:37",
-		"externalTableNamed:" : "isosa 10/17/2017 16:38",
-		"describedClass" : "isosa 10/17/2017 16:37",
-		"allContactInformations" : "Alvaro 10/17/2017 21:23",
-		"initializeUsing:" : "isosa 10/17/2017 16:24",
-		"table" : "isosa 10/17/2017 16:38",
-		"platform" : "isosa 10/17/2017 16:38",
-		"addContactInformation:" : "isosa 10/17/2017 16:40",
-		"removeContactInformation:" : "isosa 10/17/2017 16:40",
 		"creationModelBlock" : "ALvaro 11/26/2017 12:29",
-		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 22:48",
-		"tableName" : "Alvaro 10/17/2017 18:12"
+		"creationDescriptorBlock" : "ALvaro 11/26/2017 12:29",
+		"creationTableBlock" : "ALvaro 11/27/2017 22:53",
+		"tableName" : "Alvaro 10/17/2017 18:12",
+		"describedClass" : "isosa 10/17/2017 16:37"
 	},
-	"class" : {
-		"using:" : "isosa 10/17/2017 16:24"
-	}
+	"class" : { }
 }

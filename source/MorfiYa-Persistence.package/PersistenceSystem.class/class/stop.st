@@ -4,4 +4,4 @@ stop
 		ifNil: [ "Do nothing" ]
 		ifNotNil: [ :system | 
 			system disconnect.
-			Current := nil ]
+			self reset ]

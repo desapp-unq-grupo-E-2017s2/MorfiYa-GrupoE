@@ -2,14 +2,14 @@ Tests
 testRemovePriceOfferAndMenuAssociation
 	| association |
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 0.
 	association := self association.
-	priceOfferAndMenuAssociationsSystem addPriceOfferAndMenuAssociation: association.
+	priceOfferAndMenuAssociationsSystem add: association.
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 1.
-	priceOfferAndMenuAssociationsSystem removePriceOfferAndMenuAssociation: association.
+	priceOfferAndMenuAssociationsSystem remove: association.
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 0

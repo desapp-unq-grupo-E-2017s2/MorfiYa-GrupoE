@@ -1,5 +1,9 @@
 Initialization
 setUp
-	persistenceSystem := PersistenceSystem start.
-	categoriesPersistenceSystem := CategoriesManagementSystem using: persistenceSystem.
-	persistenceSystem dropAllThenCreateSchema
+
+	| rootSystem |
+	rootSystem := RootManagementSystem
+		resolvingPersistenceWith: PersistenceSystem current.
+	categoriesPersistenceSystem := CategoriesManagementSystem
+		installOn: rootSystem.
+	rootSystem persistenceSystem dropAllThenCreateSchema

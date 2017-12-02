@@ -6,11 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"usersController",
 		"server",
-		"persistenceSystem",
-		"foodBusinessController",
-		"foodMenuController"
+		"rootSystem"
 	],
 	"name" : "MorfiYaInterface",
 	"type" : "normal"

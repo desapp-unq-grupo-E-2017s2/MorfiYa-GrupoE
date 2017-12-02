@@ -1,8 +1,9 @@
 Initialization
-initializeUsing: aSpecificPersistenceSystem creatingClassModelWith: aCreationModelBlock creatingDescriptorModelWith: aCreationDescriptorBlock creatingTableWith: aCreationTableBlock
-	describedClass := aSpecificPersistenceSystem describedClass.
-	tableName := aSpecificPersistenceSystem tableName.
-	platform := aSpecificPersistenceSystem platform.
+initializeUsing: aManagementSystem creatingClassModelWith: aCreationModelBlock creatingDescriptorModelWith: aCreationDescriptorBlock creatingTableWith: aCreationTableBlock
+
+	describedClass := aManagementSystem describedClass.
+	tableName := aManagementSystem tableName.
+	platform := aManagementSystem platform.
 	creatingClassModelBlock := aCreationModelBlock.
 	creatingDescriptorModelBlock := aCreationDescriptorBlock.
 	creatingTableBlock := aCreationTableBlock

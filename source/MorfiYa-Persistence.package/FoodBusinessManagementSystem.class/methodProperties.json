@@ -1,24 +1,10 @@
 {
 	"instance" : {
-		"tableName" : "isosa 10/17/2017 23:47",
+		"creationModelBlock" : "Alvaro 10/17/2017 22:26",
 		"creationDescriptorBlock" : "Alvaro 10/17/2017 22:39",
 		"creationTableBlock" : "Alvaro 10/17/2017 22:34",
-		"configuration" : "isosa 10/17/2017 13:24",
-		"externalTableNamed:" : "isosa 10/17/2017 13:24",
-		"describedClass" : "isosa 10/17/2017 13:24",
-		"table" : "isosa 10/17/2017 13:25",
-		"initializeUsing:" : "isosa 10/17/2017 13:16",
-		"updateFoodBusiness:with:" : "isosa 10/17/2017 15:04",
-		"removeFoodBusiness:" : "isosa 10/17/2017 15:02",
-		"allFoodBusiness" : "isosa 10/17/2017 15:02",
-		"platform" : "isosa 10/17/2017 13:25",
-		"foodBusinessCount" : "isosa 10/17/2017 15:03",
-		"creationModelBlock" : "Alvaro 10/17/2017 22:26",
-		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 22:39",
-		"serviceTimeMappingFor:" : "isosa 10/17/2017 13:18",
-		"addFoodBusiness:" : "isosa 10/17/2017 15:02"
+		"tableName" : "isosa 10/17/2017 23:47",
+		"describedClass" : "isosa 10/17/2017 13:24"
 	},
-	"class" : {
-		"using:" : "isosa 10/17/2017 13:16"
-	}
+	"class" : { }
 }

@@ -1,23 +1,10 @@
 {
 	"instance" : {
-		"creationDescriptorBlock" : "Alvaro 10/17/2017 21:06",
-		"priceOfferAndMenuAssociationsCount" : "Alvaro 10/17/2017 17:17",
-		"creationTableBlock" : "Alvaro 10/17/2017 21:08",
-		"configuration" : "Alvaro 10/17/2017 14:43",
-		"relatedObjectTable" : "Alvaro 10/17/2017 15:01",
-		"allPriceOfferAndMenuAssociations" : "Alvaro 10/17/2017 17:12",
-		"describedClass" : "Alvaro 10/17/2017 14:42",
-		"initializeUsing:" : "Alvaro 10/17/2017 15:16",
-		"table" : "Alvaro 10/17/2017 14:42",
-		"platform" : "Alvaro 10/17/2017 14:42",
-		"updatePriceOfferAndMenuAssociation:with:" : "Alvaro 10/17/2017 17:16",
-		"removePriceOfferAndMenuAssociation:" : "Alvaro 10/17/2017 17:14",
 		"creationModelBlock" : "Alvaro 10/17/2017 14:46",
-		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 14:51",
-		"addPriceOfferAndMenuAssociation:" : "Alvaro 10/17/2017 17:11",
-		"tableName" : "Alvaro 10/17/2017 17:39"
+		"creationDescriptorBlock" : "Alvaro 10/17/2017 21:06",
+		"creationTableBlock" : "Alvaro 10/17/2017 21:08",
+		"tableName" : "ALvaro 11/27/2017 23:41",
+		"describedClass" : "ALvaro 11/27/2017 23:41"
 	},
-	"class" : {
-		"using:" : "Alvaro 10/17/2017 16:07"
-	}
+	"class" : { }
 }

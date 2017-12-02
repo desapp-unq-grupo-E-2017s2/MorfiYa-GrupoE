@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"addBasedOn:" : "ALvaro 11/28/2017 19:42",
+		"updateObjectWithId:withObjectBasedOn:" : "ALvaro 11/28/2017 19:45",
+		"options" : "ALvaro 11/28/2017 19:43",
+		"removeById:" : "ALvaro 11/28/2017 19:44",
+		"headers" : "ALvaro 11/28/2017 19:44",
+		"getAll" : "ALvaro 11/28/2017 19:42",
+		"initializeWorkingOn:managing:" : "ALvaro 11/28/2017 19:40"
+	},
+	"class" : {
+		"workingOn:managing:" : "ALvaro 11/28/2017 19:38"
+	}
+}

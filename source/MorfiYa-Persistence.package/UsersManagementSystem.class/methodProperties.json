@@ -1,24 +1,10 @@
 {
 	"instance" : {
-		"creationDescriptorBlock" : "isosa 11/11/2017 15:47",
-		"userOfEmail:andPassword:" : "ALvaro 11/26/2017 14:58",
-		"creationTableBlock" : "isosa 10/31/2017 19:39",
-		"updateUser:with:" : "isosa 11/11/2017 15:48",
-		"configuration" : "isosa 11/11/2017 15:47",
-		"relatedObjectTable" : "isosa 10/31/2017 19:48",
-		"allUsers" : "isosa 11/11/2017 15:47",
-		"describedClass" : "isosa 11/11/2017 15:48",
-		"initializeUsing:" : "isosa 11/11/2017 15:48",
-		"removeUser:" : "Alvaro 10/17/2017 13:19",
-		"table" : "isosa 11/11/2017 15:48",
-		"usersCount" : "isosa 11/11/2017 15:48",
-		"platform" : "isosa 11/11/2017 15:48",
 		"creationModelBlock" : "isosa 10/31/2017 14:28",
-		"relatedObjectTableNamed:" : "Alvaro 10/17/2017 14:51",
+		"creationDescriptorBlock" : "ALvaro 11/27/2017 22:53",
+		"creationTableBlock" : "ALvaro 11/27/2017 23:00",
 		"tableName" : "isosa 11/11/2017 15:48",
-		"addUser:" : "isosa 11/11/2017 15:47"
+		"describedClass" : "isosa 11/11/2017 15:48"
 	},
-	"class" : {
-		"using:" : "Alvaro 10/3/2017 20:48"
-	}
+	"class" : { }
 }

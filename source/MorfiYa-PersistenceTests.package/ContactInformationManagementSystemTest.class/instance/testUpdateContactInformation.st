@@ -1,16 +1,16 @@
 Tests
 testUpdateContactInformation
 	| contactInformation contactInformationFromDatabase anotherContactInformation |
-	self assert: contactInformationManagementSystem contactInformationsCount equals: 0.
+	self assert: contactInformationManagementSystem count equals: 0.
 	contactInformation := self contactInformation.
 	anotherContactInformation := self anotherContactInformation.
-	contactInformationManagementSystem addContactInformation: contactInformation.
+	contactInformationManagementSystem add: contactInformation.
 	contactInformationManagementSystem
-		updateContactInformation: contactInformation
+		update: contactInformation
 		with: anotherContactInformation.
-	self assert: contactInformationManagementSystem contactInformationsCount equals: 1.
+	self assert: contactInformationManagementSystem count equals: 1.
 	contactInformationFromDatabase := contactInformationManagementSystem
-		allContactInformations anyOne.
+		getAll anyOne .
 	self
 		assert: contactInformationFromDatabase address
 			equals: anotherContactInformation address;

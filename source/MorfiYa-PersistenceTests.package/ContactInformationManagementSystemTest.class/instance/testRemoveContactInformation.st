@@ -1,9 +1,9 @@
 Tests
 testRemoveContactInformation
 	| contactInformation  |
-	self assert: contactInformationManagementSystem contactInformationsCount equals: 0.
+	self assert: contactInformationManagementSystem count equals: 0.
 	contactInformation := self contactInformation.
-	contactInformationManagementSystem addContactInformation: contactInformation.
-	self assert: contactInformationManagementSystem contactInformationsCount equals: 1.
-	contactInformationManagementSystem removeContactInformation: contactInformation.
+	contactInformationManagementSystem add: contactInformation.
+	self assert: contactInformationManagementSystem count equals: 1.
+	contactInformationManagementSystem remove: contactInformation.
 	self assert: contactInformationManagementSystem contactInformationsCount equals: 0

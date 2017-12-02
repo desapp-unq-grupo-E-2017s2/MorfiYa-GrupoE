@@ -1,4 +1,0 @@
-initialization
-initializePersistenceSystem
-
-	PersistenceSystem current dropAllThenCreateSchema

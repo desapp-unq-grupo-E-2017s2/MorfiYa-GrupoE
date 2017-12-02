@@ -1,5 +1,0 @@
-initialization
-initializeDatabaseConfigurations
-
-	userManagementSystem := UsersManagementSystem using: PersistenceSystem current.
-	ContactInformationManagementSystem using: PersistenceSystem current

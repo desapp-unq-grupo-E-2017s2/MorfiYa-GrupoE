@@ -1,9 +1,9 @@
 Tests
 testAddCategory
 	| category categoryFromDatabase |
-	self assert: categoriesPersistenceSystem  categoriesCount equals: 0.
+	self assert: categoriesPersistenceSystem  count equals: 0.
 	category := Category sushi.
-	categoriesPersistenceSystem addCategory: category.
-	self assert: categoriesPersistenceSystem categoriesCount equals: 1.
-	categoryFromDatabase := categoriesPersistenceSystem allCategories  anyOne.
+	categoriesPersistenceSystem add: category.
+	self assert: categoriesPersistenceSystem count equals: 1.
+	categoryFromDatabase := categoriesPersistenceSystem getAll   anyOne.
 	self assert: categoryFromDatabase equals: category

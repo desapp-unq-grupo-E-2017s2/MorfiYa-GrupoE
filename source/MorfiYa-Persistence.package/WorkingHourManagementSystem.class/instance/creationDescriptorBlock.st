@@ -10,5 +10,5 @@ creationDescriptorBlock
 		referenceClass: WeekDay;
 		join: (Join from: (table fieldNamed: 'id') to: ((self relatedObjectTableNamed: #WEEK_DAY) fieldNamed: 'workingHoursId'));
 		beExclusive.
-	(aDescriptor newMapping: DirectMapping) from: #openingTime to: (table fieldNamed: 'openingTime').
+	(aDescriptor newMapping: DirectMapping) from: #openningTime to: (table fieldNamed: #openningTime).
 	(aDescriptor newMapping: DirectMapping) from: #closingTime to: (table fieldNamed: 'closingTime') ]

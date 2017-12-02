@@ -2,9 +2,9 @@ Tests
 testRemoveFoodBusiness
 
 	| foodBusiness |
-	self assert: foodBusinessManagementSystem foodBusinessCount equals: 0.
+	self assert: foodBusinessManagementSystem count equals: 0.
 	foodBusiness := self foodBusiness.
-	foodBusinessManagementSystem addFoodBusiness: foodBusiness.
-	self assert: foodBusinessManagementSystem foodBusinessCount equals: 1.
-	foodBusinessManagementSystem removeFoodBusiness: foodBusiness.
-	self assert: foodBusinessManagementSystem foodBusinessCount equals: 0
+	foodBusinessManagementSystem add: foodBusiness.
+	self assert: foodBusinessManagementSystem count equals: 1.
+	foodBusinessManagementSystem remove: foodBusiness.
+	self assert: foodBusinessManagementSystem count equals: 0

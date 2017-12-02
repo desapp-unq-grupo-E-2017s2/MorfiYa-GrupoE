@@ -1,4 +1,4 @@
 Test Support
 tearDown
 
-	persistenceSystem dropAllTables
+	rootSystem persistenceSystem dropAllTables

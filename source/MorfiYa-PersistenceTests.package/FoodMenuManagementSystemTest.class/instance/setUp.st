@@ -1,9 +1,11 @@
 initialization
 setUp
 
-	persistenceSystem := PersistenceSystem start.
-	WeekDayManagementSystem using: persistenceSystem.
-	WorkingHourManagementSystem using: persistenceSystem.
-	FoodBusinessManagementSystem using: persistenceSystem .
-	foodMenuPersistenceSystem := FoodMenuesManagementSystem using: persistenceSystem.
-	persistenceSystem dropAllThenCreateSchema
+	| rootSystem |
+
+	rootSystem := RootManagementSystem resolvingPersistenceWith: PersistenceSystem current.
+	WeekDayManagementSystem installOn: rootSystem.
+	foodMenuPersistenceSystem := FoodMenuesManagementSystem installOn: rootSystem.
+	WorkingHourManagementSystem installOn: rootSystem.
+	FoodBusinessManagementSystem installOn: rootSystem.
+	rootSystem persistenceSystem dropAllThenCreateSchema

@@ -1,7 +1,9 @@
 initialization
 setUp
-	persistenceSystem := PersistenceSystem start.
-	contactInformationManagementSystem := ContactInformationManagementSystem
-		using: persistenceSystem.
-	userManagementSystem := UsersManagementSystem using: persistenceSystem.
-	persistenceSystem dropAllThenCreateSchema
+
+	| rootSystem |
+
+	rootSystem := RootManagementSystem resolvingPersistenceWith: PersistenceSystem current.
+	contactInformationManagementSystem := ContactInformationManagementSystem installOn: rootSystem.
+	userManagementSystem := UsersManagementSystem installOn: rootSystem.
+	rootSystem persistenceSystem dropAllThenCreateSchema

@@ -1,9 +1,9 @@
 Tests
 testRemoveCustomer
 	| customer |
-	self assert: usersManagementSystem usersCount equals: 0.
+	self assert: usersManagementSystem count equals: 0.
 	customer := self user.
-	usersManagementSystem addUser: customer.
-	self assert: usersManagementSystem usersCount equals: 1.
-	usersManagementSystem removeUser: customer.
-	self assert: usersManagementSystem usersCount equals: 0
+	usersManagementSystem add: customer.
+	self assert: usersManagementSystem count equals: 1.
+	usersManagementSystem remove: customer.
+	self assert: usersManagementSystem count equals: 0

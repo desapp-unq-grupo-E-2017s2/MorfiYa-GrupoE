@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"initializeUpdateObjectService" : "ALvaro 11/28/2017 19:51",
+		"initializeCreateObjectService" : "ALvaro 11/28/2017 19:50",
+		"fullPath" : "ALvaro 11/28/2017 19:49",
+		"initializeDeployingOn:at:withApiPath:delegatingTo:" : "ALvaro 11/28/2017 19:48",
+		"initializeOptions" : "ALvaro 11/28/2017 19:50",
+		"initializeAllObjectsService" : "ALvaro 11/28/2017 19:49",
+		"initializeDeleteObjectService" : "ALvaro 11/28/2017 19:50"
+	},
+	"class" : {
+		"deployingOn:at:withApiPath:delegatingTo:" : "ALvaro 11/28/2017 19:48"
+	}
+}

@@ -2,11 +2,11 @@
 	"instance" : {
 		"anotherPriceOffer" : "Alvaro 10/17/2017 16:56",
 		"priceOffer" : "Alvaro 10/17/2017 16:51",
-		"testRemovePriceOffer" : "Alvaro 10/17/2017 16:53",
+		"testRemovePriceOffer" : "ALvaro 12/2/2017 11:39",
 		"tearDown" : "Alvaro 10/17/2017 16:47",
-		"testAddPriceOffer" : "Alvaro 10/17/2017 16:50",
-		"setUp" : "isosa 10/31/2017 20:17",
-		"testUpdatePriceOffer" : "Alvaro 10/17/2017 16:58"
+		"testAddPriceOffer" : "ALvaro 12/2/2017 11:39",
+		"setUp" : "ALvaro 11/29/2017 22:38",
+		"testUpdatePriceOffer" : "ALvaro 12/2/2017 11:40"
 	},
 	"class" : { }
 }

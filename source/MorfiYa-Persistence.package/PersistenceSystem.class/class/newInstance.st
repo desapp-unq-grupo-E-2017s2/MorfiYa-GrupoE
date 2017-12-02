@@ -1,4 +1,4 @@
 private
 newInstance
-	current := self basicNew initialize.
-	^self current 
+	current := self new.
+	^ current 

@@ -1,12 +1,12 @@
 {
 	"instance" : {
 		"anotherWorkingHour" : "Alvaro 10/17/2017 20:00",
-		"testAddWorkingHour" : "isosa 11/11/2017 17:46",
+		"testAddWorkingHour" : "ALvaro 11/30/2017 22:41",
 		"workingHour" : "Alvaro 10/17/2017 20:00",
-		"tearDown" : "isosa 11/11/2017 18:28",
-		"setUp" : "isosa 10/31/2017 20:17",
-		"testUpdateWorkingHour" : "isosa 11/11/2017 18:06",
-		"testRemoveWorkingHour" : "isosa 11/11/2017 18:06"
+		"tearDown" : "ALvaro 11/30/2017 23:02",
+		"setUp" : "ALvaro 11/30/2017 23:02",
+		"testUpdateWorkingHour" : "ALvaro 11/30/2017 22:51",
+		"testRemoveWorkingHour" : "ALvaro 11/30/2017 22:41"
 	},
 	"class" : { }
 }

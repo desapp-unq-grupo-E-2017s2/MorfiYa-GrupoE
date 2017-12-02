@@ -2,19 +2,19 @@ Tests
 testUpdatePriceOfferAndMenuAssociation
 	| association anotherAssociation associationFromDatabase |
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 0.
 	association := self association.
 	anotherAssociation := self anotherAssociation.
-	priceOfferAndMenuAssociationsSystem addPriceOfferAndMenuAssociation: association.
+	priceOfferAndMenuAssociationsSystem add: association.
 	priceOfferAndMenuAssociationsSystem
-		updatePriceOfferAndMenuAssociation: association
+		update: association
 		with: anotherAssociation.
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 1.
 	associationFromDatabase := priceOfferAndMenuAssociationsSystem
-		allPriceOfferAndMenuAssociations anyOne.
+		getAll  anyOne.
 	self
 		assert: associationFromDatabase priceOffer equals: anotherAssociation priceOffer;
 		assert: associationFromDatabase menu equals: anotherAssociation menu

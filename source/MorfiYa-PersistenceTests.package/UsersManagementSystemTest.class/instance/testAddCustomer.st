@@ -3,11 +3,11 @@ testAddCustomer
 
 	| customer customerFromDatabase |
 	
-	self assert: usersManagementSystem usersCount equals: 0.
+	self assert: usersManagementSystem count equals: 0.
 	
 	customer := self user.
-	usersManagementSystem addUser: customer.
-	self assert: usersManagementSystem usersCount equals: 1.
+	usersManagementSystem add: customer.
+	self assert: usersManagementSystem count equals: 1.
 	
-	customerFromDatabase := usersManagementSystem allUsers anyOne.
+	customerFromDatabase := usersManagementSystem getAll  anyOne.
 	self assert: customerFromDatabase equals: customer

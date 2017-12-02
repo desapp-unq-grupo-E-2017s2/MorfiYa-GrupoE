@@ -2,13 +2,13 @@ Tests
 testAddPriceOfferAndMenuAssociation
 	| association associationFromDatabase |
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 0.
 	association := self association.
-	priceOfferAndMenuAssociationsSystem addPriceOfferAndMenuAssociation: association.
+	priceOfferAndMenuAssociationsSystem add: association.
 	self
-		assert: priceOfferAndMenuAssociationsSystem priceOfferAndMenuAssociationsCount
+		assert: priceOfferAndMenuAssociationsSystem count
 		equals: 1.
 	associationFromDatabase := priceOfferAndMenuAssociationsSystem
-		allPriceOfferAndMenuAssociations anyOne.
+		getAll  anyOne.
 	self assert: associationFromDatabase equals: association

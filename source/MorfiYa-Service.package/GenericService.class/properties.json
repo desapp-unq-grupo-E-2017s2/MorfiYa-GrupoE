@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Service",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"basePath",
+		"apiPath",
+		"server",
+		"controller"
+	],
+	"name" : "GenericService",
+	"type" : "normal"
+}

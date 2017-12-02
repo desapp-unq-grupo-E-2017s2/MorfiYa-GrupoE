@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"creationDescriptorBlock" : "ALvaro 11/27/2017 23:05",
+		"getById:" : "ALvaro 11/27/2017 23:08",
+		"creationTableBlock" : "ALvaro 11/27/2017 23:05",
+		"update:with:" : "ALvaro 11/27/2017 23:14",
+		"configuration" : "ALvaro 11/27/2017 23:04",
+		"initializeToInstallOn:" : "ALvaro 11/29/2017 22:31",
+		"add:" : "ALvaro 11/27/2017 23:03",
+		"count" : "ALvaro 11/27/2017 23:04",
+		"describedClass" : "ALvaro 11/27/2017 23:06",
+		"getAll" : "ALvaro 11/27/2017 23:06",
+		"remove:" : "ALvaro 11/27/2017 23:11",
+		"table" : "ALvaro 11/27/2017 23:13",
+		"updateById:with:" : "ALvaro 11/27/2017 23:15",
+		"platform" : "ALvaro 11/27/2017 23:08",
+		"removeById:" : "ALvaro 11/27/2017 23:12",
+		"creationModelBlock" : "ALvaro 11/27/2017 23:05",
+		"relatedObjectTableNamed:" : "ALvaro 11/27/2017 23:11",
+		"tableName" : "ALvaro 11/27/2017 23:14"
+	},
+	"class" : {
+		"installOn:" : "ALvaro 11/30/2017 22:18"
+	}
+}

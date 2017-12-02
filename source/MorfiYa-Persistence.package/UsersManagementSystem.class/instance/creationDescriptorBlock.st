@@ -17,5 +17,5 @@ creationDescriptorBlock
 		referenceClass: ContactInformation;
 		join:
 			(Join
-				from: (table fieldNamed: 'contactInformation')
-				to: ((self relatedObjectTableNamed: 'CONTACT_INFORMATION') fieldNamed: 'id')) ]
+				from: (table fieldNamed: 'id')
+				to: ((self relatedObjectTableNamed: 'CONTACT_INFORMATION') fieldNamed: 'user_id')) ]

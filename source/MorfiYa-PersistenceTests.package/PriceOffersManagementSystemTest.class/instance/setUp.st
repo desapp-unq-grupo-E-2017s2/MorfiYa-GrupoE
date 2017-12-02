@@ -1,5 +1,8 @@
 Initialization
 setUp
-	persistenceSystem := PersistenceSystem start.
-	priceOffersPersistenceSystem  := PriceOffersManagementSystem  using: persistenceSystem.
-	persistenceSystem dropAllThenCreateSchema
+
+	| rootSystem |
+
+	rootSystem := RootManagementSystem resolvingPersistenceWith: PersistenceSystem current.
+	priceOffersPersistenceSystem := PriceOffersManagementSystem installOn: rootSystem.
+	rootSystem persistenceSystem dropAllThenCreateSchema

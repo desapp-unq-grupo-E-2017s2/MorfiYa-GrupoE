@@ -3,13 +3,13 @@ testRemoveWorkingHour
 
 	| workingHour workingHourFromDatabase |
 	
-	self assert: workingHoursPersistenceSystem workingHoursCount equals: 0.
+	self assert: workingHoursPersistenceSystem count equals: 0.
 	
 	workingHour := self workingHour.
-	workingHoursPersistenceSystem addWorkingHour: workingHour.
-	self assert: workingHoursPersistenceSystem workingHoursCount equals: 1.
+	workingHoursPersistenceSystem add: workingHour.
+	self assert: workingHoursPersistenceSystem count equals: 1.
 	
-	workingHourFromDatabase := workingHoursPersistenceSystem allWorkingHours anyOne.
+	workingHourFromDatabase := workingHoursPersistenceSystem getAll  anyOne.
 	self assert: workingHour equals: workingHourFromDatabase.
 	
 	workingHoursPersistenceSystem removeWorkingHour: workingHour.

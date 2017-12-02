@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MorfiYa-Service",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"persistedClass",
+		"persistentObjectManagementSystem"
+	],
+	"name" : "GenericController",
+	"type" : "normal"
+}

@@ -1,13 +1,13 @@
 Tests
 testUpdateFoodMenu
 	| foodMenu anotherFoodMenu foodMenuFromDatabase |
-	self assert: foodMenuPersistenceSystem foodMenuCount equals: 0.
+	self assert: foodMenuPersistenceSystem count equals: 0.
 	foodMenu := self foodMenu.
 	anotherFoodMenu := self anotherFoodMenu.
-	foodMenuPersistenceSystem addFoodMenu: foodMenu.
-	foodMenuPersistenceSystem updateFoodMenu: foodMenu with: anotherFoodMenu.
-	self assert: foodMenuPersistenceSystem foodMenuCount equals: 1.
-	foodMenuFromDatabase := foodMenuPersistenceSystem allFoodMenus anyOne.
+	foodMenuPersistenceSystem add: foodMenu.
+	foodMenuPersistenceSystem update: foodMenu with: anotherFoodMenu.
+	self assert: foodMenuPersistenceSystem count equals: 1.
+	foodMenuFromDatabase := foodMenuPersistenceSystem getAll  anyOne.
 	self assert: foodMenuFromDatabase name equals: 'TripleMc'.
 	self
 		assert: foodMenuFromDatabase description
