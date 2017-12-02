@@ -6,8 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"persistenceSystem",
-		"usersManagementSystem"
+		"usersManagementSystem",
+		"rootSystem"
 	],
 	"name" : "UsersManagementSystemTest",
 	"type" : "normal"

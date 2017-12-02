@@ -8,8 +8,8 @@
 	"instvars" : [
 		"id",
 		"workingDay",
-		"openingTime",
-		"closingTime"
+		"closingTime",
+		"openningTime"
 	],
 	"name" : "WorkingHoursTime",
 	"type" : "normal"

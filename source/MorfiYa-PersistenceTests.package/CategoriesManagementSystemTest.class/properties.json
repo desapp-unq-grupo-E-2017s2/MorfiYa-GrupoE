@@ -7,7 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"persistenceSystem",
-		"categoriesPersistenceSystem"
+		"categoriesPersistenceSystem",
+		"rootSystem"
 	],
 	"name" : "CategoriesManagementSystemTest",
 	"type" : "normal"

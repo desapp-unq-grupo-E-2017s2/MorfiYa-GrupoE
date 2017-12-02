@@ -6,8 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"persistenceSystem",
-		"priceOffersPersistenceSystem"
+		"priceOffersPersistenceSystem",
+		"rootSystem"
 	],
 	"name" : "PriceOffersManagementSystemTest",
 	"type" : "normal"

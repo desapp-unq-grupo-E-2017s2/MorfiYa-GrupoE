@@ -2,9 +2,9 @@
 	"instance" : {
 		"anotherContactInformation" : "ALvaro 11/26/2017 12:23",
 		"contactInformation" : "ALvaro 11/26/2017 12:24",
-		"tearDown" : "Alvaro 10/17/2017 21:19",
-		"setUp" : "ALvaro 11/30/2017 22:20",
-		"testRemoveContactInformation" : "ALvaro 12/2/2017 11:57",
+		"tearDown" : "ALvaro 12/2/2017 12:48",
+		"setUp" : "ALvaro 12/2/2017 12:45",
+		"testRemoveContactInformation" : "ALvaro 12/2/2017 12:49",
 		"testUpdateContactInformation" : "ALvaro 12/2/2017 11:58",
 		"testAddContactInformation" : "ALvaro 12/2/2017 11:57"
 	},

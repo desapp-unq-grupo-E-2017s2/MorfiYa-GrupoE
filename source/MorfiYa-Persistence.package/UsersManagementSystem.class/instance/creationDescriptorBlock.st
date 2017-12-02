@@ -1,6 +1,5 @@
 Configuring
 creationDescriptorBlock
-
 	^ [ :aDescriptor | 
 	| table |
 	table := self table.
@@ -18,4 +17,5 @@ creationDescriptorBlock
 		join:
 			(Join
 				from: (table fieldNamed: 'id')
-				to: ((self relatedObjectTableNamed: 'CONTACT_INFORMATION') fieldNamed: 'user_id')) ]
+				to: ((self relatedObjectTableNamed: 'CONTACT_INFORMATION') fieldNamed: 'user_id'));
+		beExclusive ]

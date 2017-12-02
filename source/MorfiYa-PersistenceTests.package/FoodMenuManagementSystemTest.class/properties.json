@@ -6,8 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"persistenceSystem",
-		"foodMenuPersistenceSystem"
+		"foodMenuPersistenceSystem",
+		"rootSystem"
 	],
 	"name" : "FoodMenuManagementSystemTest",
 	"type" : "normal"

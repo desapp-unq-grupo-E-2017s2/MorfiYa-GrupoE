@@ -1,8 +1,6 @@
 Initialization
 setUp
 
-	| rootSystem |
-
 	rootSystem := RootManagementSystem resolvingPersistenceWith: PersistenceSystem current.
 	FoodBusinessManagementSystem installOn: rootSystem.
 	FoodMenuesManagementSystem installOn: rootSystem.

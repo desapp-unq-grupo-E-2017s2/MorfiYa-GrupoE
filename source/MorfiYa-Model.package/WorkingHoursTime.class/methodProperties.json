@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"openningHours" : "ALvaro 11/30/2017 22:52",
-		"openningTime" : "ALvaro 11/30/2017 22:51",
-		"synchronizeWith:" : "ALvaro 11/30/2017 22:51",
-		"=" : "ALvaro 11/30/2017 22:54",
+		"openningHours" : "ALvaro 12/2/2017 13:08",
+		"openningTime" : "ALvaro 12/2/2017 13:08",
+		"synchronizeWith:" : "ALvaro 12/2/2017 13:08",
+		"=" : "ALvaro 12/2/2017 13:08",
 		"workingDay" : "isosa 10/17/2017 15:34",
 		"id" : "isosa 10/17/2017 16:30",
 		"closingTime" : "isosa 10/3/2017 16:29",
-		"initializeOn:from:to:" : "isosa 10/17/2017 12:35"
+		"initializeOn:from:to:" : "ALvaro 12/2/2017 13:08"
 	},
 	"class" : {
 		"assertValidOpeningHoursFor:and:" : "isosa 10/3/2017 16:39",

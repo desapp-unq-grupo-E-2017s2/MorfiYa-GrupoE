@@ -8,7 +8,8 @@
 	"instvars" : [
 		"persistenceSystem",
 		"contactInformationManagementSystem",
-		"userManagementSystem"
+		"userManagementSystem",
+		"rootSystem"
 	],
 	"name" : "ContactInformationManagementSystemTest",
 	"type" : "normal"

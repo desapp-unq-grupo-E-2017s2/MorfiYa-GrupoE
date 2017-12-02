@@ -1,4 +1,4 @@
 Accessing
 openningHours
 
-	^(openingTime to: closingTime) size - 1
+	^(openningTime to: closingTime) size - 1

@@ -1,8 +1,6 @@
 initialization
 setUp
 
-	| rootSystem |
-
 	rootSystem := RootManagementSystem resolvingPersistenceWith: PersistenceSystem current.
 	WeekDayManagementSystem installOn: rootSystem.
 	foodMenuPersistenceSystem := FoodMenuesManagementSystem installOn: rootSystem.

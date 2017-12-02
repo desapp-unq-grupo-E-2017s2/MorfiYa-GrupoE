@@ -1,4 +1,4 @@
 Accessing
 openningTime
 
-	^ openingTime
+	^ openningTime

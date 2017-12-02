@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"tearDown" : "Alvaro 10/17/2017 19:34",
+		"tearDown" : "ALvaro 12/2/2017 12:43",
 		"testAddWeekDay" : "ALvaro 12/2/2017 11:14",
 		"testRemoveWeekDay" : "ALvaro 12/2/2017 11:15",
-		"setUp" : "ALvaro 11/30/2017 22:32"
+		"setUp" : "ALvaro 12/2/2017 12:43"
 	},
 	"class" : { }
 }
