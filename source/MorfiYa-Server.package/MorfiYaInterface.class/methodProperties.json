@@ -1,13 +1,13 @@
 {
 	"instance" : {
-		"initializeToDeployOnAdress:andPort:" : "ALvaro 11/28/2017 20:01",
-		"initializeSystems" : "ALvaro 11/29/2017 22:27",
-		"initializeRoutes" : "ALvaro 11/28/2017 19:57",
+		"initializeToDeployOnAdress:andPort:" : "Alvaro 12/3/2017 12:40",
+		"initializeSystems" : "Alvaro 12/3/2017 12:45",
+		"initializeRoutes" : "Alvaro 12/3/2017 13:55",
 		"stop" : "ALvaro 11/26/2017 15:00",
 		"start" : "ALvaro 11/23/2017 20:53",
 		"initializeServerOnAdress:andPort:" : "ALvaro 11/28/2017 19:58"
 	},
 	"class" : {
-		"start" : "isosa 10/17/2017 22:10"
+		"deployOnAdress:andPort:" : "Alvaro 12/3/2017 12:40"
 	}
 }

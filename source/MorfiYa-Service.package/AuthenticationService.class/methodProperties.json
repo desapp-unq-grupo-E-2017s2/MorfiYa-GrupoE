@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"initializeLogInService" : "Alvaro 12/3/2017 14:05",
+		"initializeOptions" : "Alvaro 12/3/2017 13:04",
+		"fullPath" : "Alvaro 12/3/2017 13:04",
+		"initializeDeployingOn:at:withApiPath:delegatingTo:" : "Alvaro 12/3/2017 13:03"
+	},
+	"class" : {
+		"deployingOn:at:withApiPath:delegatingTo:" : "Alvaro 12/3/2017 12:57"
+	}
+}

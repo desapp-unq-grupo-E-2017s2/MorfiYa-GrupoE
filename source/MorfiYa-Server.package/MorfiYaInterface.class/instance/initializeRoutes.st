@@ -5,6 +5,11 @@ initializeRoutes
 		at: ''
 		withApiPath: 'users'
 		delegatingTo: (GenericController workingOn: rootSystem managing: User).
+	AuthenticationService
+		deployingOn: server
+		at: ''
+		withApiPath: 'authentication'
+		delegatingTo: (AuthenticationController workingOn: rootSystem managing: User).
 	GenericService
 		deployingOn: server
 		at: ''
