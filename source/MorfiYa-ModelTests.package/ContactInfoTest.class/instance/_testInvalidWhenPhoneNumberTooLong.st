@@ -1,5 +1,5 @@
 tests
-testInvalidWhenPhoneNumberTooLong
+_testInvalidWhenPhoneNumberTooLong
 
 
 	self

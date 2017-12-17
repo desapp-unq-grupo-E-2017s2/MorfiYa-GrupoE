@@ -7,5 +7,5 @@ initializeDeployingOn: aTeapotServer at: aBasePath withApiPath: anApiPath delega
 	controller := aController.
 	
 	self
-		initializeLogInService;
+		initializeAuth0LoginOrRegisterService;
 		initializeOptions

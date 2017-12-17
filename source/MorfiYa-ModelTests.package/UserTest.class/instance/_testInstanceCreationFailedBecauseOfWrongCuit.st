@@ -1,5 +1,5 @@
 tests
-testInstanceCreationFailedBecauseOfWrongCuit
+_testInstanceCreationFailedBecauseOfWrongCuit
 	| clientInfo |
 	clientInfo := self contactInformation.
 	self

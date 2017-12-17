@@ -1,9 +1,10 @@
 {
 	"instance" : {
-		"initializeLogInService" : "Alvaro 12/3/2017 14:05",
-		"initializeOptions" : "Alvaro 12/3/2017 13:04",
 		"fullPath" : "Alvaro 12/3/2017 13:04",
-		"initializeDeployingOn:at:withApiPath:delegatingTo:" : "Alvaro 12/3/2017 13:03"
+		"initializeDeployingOn:at:withApiPath:delegatingTo:" : "Alvaro 12/17/2017 14:06",
+		"userFromGoogleProfile:" : "Alvaro 12/17/2017 19:17",
+		"initializeOptions" : "Alvaro 12/3/2017 13:04",
+		"initializeAuth0LoginOrRegisterService" : "Alvaro 12/17/2017 19:10"
 	},
 	"class" : {
 		"deployingOn:at:withApiPath:delegatingTo:" : "Alvaro 12/3/2017 12:57"

@@ -1,9 +1,11 @@
 {
 	"instance" : {
-		"initializeWorkingOn:managing:" : "Alvaro 12/3/2017 14:26",
+		"userWithEmail:" : "Alvaro 12/17/2017 14:26",
+		"options" : "Alvaro 12/3/2017 13:38",
 		"userByEmail:andPassword:" : "Alvaro 12/3/2017 14:21",
 		"headers" : "Alvaro 12/3/2017 13:38",
-		"options" : "Alvaro 12/3/2017 13:38"
+		"initializeWorkingOn:managing:" : "Alvaro 12/3/2017 14:26",
+		"createUser:" : "Alvaro 12/17/2017 19:07"
 	},
 	"class" : {
 		"workingOn:managing:" : "Alvaro 12/3/2017 13:28"

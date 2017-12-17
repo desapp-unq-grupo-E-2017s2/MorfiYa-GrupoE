@@ -1,5 +1,5 @@
 tests
-testInvalidWhenPhoneNumberHasAll0Digits
+_testInvalidWhenPhoneNumberHasAll0Digits
 
 
 	self
